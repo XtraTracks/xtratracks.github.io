@@ -16,7 +16,7 @@ Detailed information about the speakers can be accessed by clicking on the respe
 
 |Date   |Title   |Speaker   |Register / Talk   |
 |---|---|---|---|
-| 07-05-2025 16:00 | Introduction / Training and Education in Digital Medicine  | Christian Juhra  |   |
+| 07-05-2025 16:00 | [Introduction / Training and Education in Digital Medicine  | Christian Juhra](XtraTracks2025-1.md)  |   |
 | 14-05-2025 16:00  | Provincial Virtual Care for Addressing Patient Emergencies at Their Finger Tips: the BC 811 Experience  |  Kendall Ho |   |
 | 21-05-2025 16:00  | AI in Medicine - Progress, Perils, and Perspectives  | Tim Hahn  |   |
 | 28-05-2025 16:00 | AI in Bioinformatics: Fighting the global threat of antimicrobial resistance | Dominik Heider  |   |
@@ -31,3 +31,5 @@ Detailed information about the speakers can be accessed by clicking on the respe
 
 ---
 <p style="font-size:11px">Organized by <a href="http://mocomed.de">GMDS AG MoCoMed</a></p>
+
+[a relative link](XtraTracks2025-12.md)
