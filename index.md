@@ -2,34 +2,20 @@
 
 ---
 
-### Category Name 1 
+### The XtraTrack Sessions
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[XtraTracks 2025 -Telemedicine](/XtraTracks2025)
+<img src="images/xtratrackslogo25.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[XtraTracks 2024 - ](/XtraTracks2025)
+<img src="images/xtratrackslogo24.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[XtraTracks 2023 - ](http://example.com/)
+<img src="images/xtratrackslogo24.jpg?raw=true"/>
 
 ---
-
-
-
-
----
+<p style="font-size:11px">Organized by <a href="mocomed.de">GMDS AG MoCoMed</a></p>
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->

@@ -1,11 +1,8 @@
 title: XtraTracks.com # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  XtraTracks 2025 
+  Organized by <a href="https://mocomed.de">GMDS AG MoCoMed</a>
   <br><br>
-  XtraTracks 2024 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
