@@ -1,6 +1,6 @@
 ### XtraTrack Season 2023 - „Facetten der Selbstvermessung“
 
-<p style="font-size:11px">Im Rahmen der 6 8. GMDS-Jahrestagung 2023 fand ein erster spannender Dialog statt. Die Gespräche über das Prinzip und den Nutzen sowie über die Hürden der Selbstvermessung zeigten deutlich, dass die Einstellung zu diesem Thema von der Erfahrung mit Krankheit bzw. Gesundheit aus dem persönlichen Umfeld geprägt ist.
+<p style="font-size:11px">Im Rahmen der 68. GMDS-Jahrestagung 2023 fand ein erster spannender Dialog statt. Die Gespräche über das Prinzip und den Nutzen sowie über die Hürden der Selbstvermessung zeigten deutlich, dass die Einstellung zu diesem Thema von der Erfahrung mit Krankheit bzw. Gesundheit aus dem persönlichen Umfeld geprägt ist.
 
 Individuelle Selbstvermessung bezeichnet den Prozess, bei dem eine Person Daten über sich selbst
 sammelt und analysiert, um mehr über ihr Verhalten, ihre Leistung, ihre Gesundheit oder ihr Wohl‐
@@ -9,7 +9,7 @@ Smartphone-Apps oder auch mit Stift und Papier erfolgen.</p>
 
 ## Overview of the Lecture Series
 
-<!--<center><iframe width="330" height="210" src="https://www.youtube.com/embed/qknVuj5XohM?si=zd9prDstId0hfQR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>-->
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/4KvpF-NmFWQ?si=lfGSfMgjq-7wQSc1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 Detailed information about the speakers can be accessed by clicking on the respective lecture titles.
 
