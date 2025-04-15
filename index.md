@@ -8,9 +8,10 @@
 [XtraTracks 2024 - Mobile Bio Signal Verarbeitung](/XtraTracks2024)
 <img src="images/xtratrackslogo2024.jpg?raw=true"/>
 
+<!--
 ---
 [XtraTracks 2023 - ](/XtraTracks2024)
-<img src="images/xtratrackslogo2023.jpg?raw=true"/>
+<img src="images/xtratrackslogo2023.jpg?raw=true"/>-->
 
 ---
 <p style="font-size:11px">Organized by <a href="mocomed.de">GMDS AG MoCoMed</a></p>
