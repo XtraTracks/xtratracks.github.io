@@ -1,12 +1,11 @@
 
 ### The XtraTrack Sessions
 
-[XtraTracks 2025 -Telemedicine](/XtraTracks2025)
-<img src="images/xtratrackslogo2025.jpg?raw=true"/>
+[XtraTracks 2025 -Telemedicine <img src="images/xtratrackslogo2025.jpg?raw=true"/>](/XtraTracks2025)
 
 ---
-[XtraTracks 2024 - Mobile Bio Signal Verarbeitung](/XtraTracks2024)
-<img src="images/xtratrackslogo2024.jpg?raw=true"/>
+[XtraTracks 2024 - Mobile Bio Signal Verarbeitung <img src="images/xtratrackslogo2024.jpg?raw=true"/>](/XtraTracks2024)
+
 
 <!--
 ---
