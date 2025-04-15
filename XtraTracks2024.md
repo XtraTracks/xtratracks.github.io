@@ -19,11 +19,9 @@ A short overview video is available below. Detailed information about the speake
 | 26.06.2024  |  Sensorik, Ecological Momentary Assessments und Regulierungsvorschriften in mobilen Gesundheitsanwendungen: Eine aktuelle Bestandsaufnahme | Rüdiger Pryss, (Universität Würzburg)  |   |
 | 03.07.2024  |  PADS: Machine Learning Werkzeuge und ein großer Datensatz mit Parkinson-Smartwatchdaten |  Julian Varghese, (Universität Münster) |   |
 | 17.07.2024  | Schlafbewertung anhand kardiorespiratorischer Signale  | Miriam Goldammer (Universität Dresden)  |   |
-| 14.08.2024  |  PRE-HF-ML: Bieten Smartwatches ein Potential zur Risikovorhersage bei Herzinsuffizienz?
- | Nicolai Spicher, (Universität Göttingen)  |   |
+| 14.08.2024  |  PRE-HF-ML: Bieten Smartwatches ein Potential zur Risikovorhersage bei Herzinsuffizienz? | Nicolai Spicher, (Universität Göttingen)  |   |
 | 02.09.2024  | Data4Life.care  | Tim Walz, Data4Life.care  |   |
-|  04.09.2024 |  Kontaminationslandschaften: spatio-temporale Risikoanalyse für nosokomiale Infektionen
- | Christoph Höser, Universität Bonn  |   |
+|  04.09.2024 |  Kontaminationslandschaften: spatio-temporale Risikoanalyse für nosokomiale Infektionen | Christoph Höser, Universität Bonn  |   |
 
 <center><iframe width="330" height="210" src="https://www.youtube.com/embed/qknVuj5XohM?si=zd9prDstId0hfQR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
