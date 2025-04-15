@@ -24,6 +24,5 @@ Detailed information about the speakers can be accessed by clicking on the respe
 | 02.09.2024  | Data4Life.care  | Tim Walz, Data4Life.care  |   |
 |  04.09.2024 |  Kontaminationslandschaften: spatio-temporale Risikoanalyse für nosokomiale Infektionen | Christoph Höser, Universität Bonn  |   |
 
-
 ---
 <p style="font-size:11px">Organized by <a href="http://mocomed.de">GMDS AG MoCoMed</a></p>
