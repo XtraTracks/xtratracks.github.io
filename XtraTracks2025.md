@@ -32,6 +32,4 @@ A short overview video is available below. Detailed information about the speake
 <!--<center><iframe width="330" height="210" src="https://www.youtube.com/embed/qknVuj5XohM?si=zd9prDstId0hfQR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>-->
 
 ---
-<p style="font-size:11px">Organized by <a href="mocomed.de">GMDS AG MoCoMed</a></p>
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<p style="font-size:11px">Organized by <a href="http://mocomed.de">GMDS AG MoCoMed</a></p>

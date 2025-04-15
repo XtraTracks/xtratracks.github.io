@@ -6,7 +6,10 @@
 
 [Overview of the Lecture Series]
 
-A short overview video is available below. Detailed information about the speakers can be accessed by clicking on the respective lecture titles.
+
+<center><iframe width="330" height="210" src="https://www.youtube.com/embed/qknVuj5XohM?si=zd9prDstId0hfQR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+
+Detailed information about the speakers can be accessed by clicking on the respective lecture titles.
 
 ---
 
@@ -23,7 +26,6 @@ A short overview video is available below. Detailed information about the speake
 | 02.09.2024  | Data4Life.care  | Tim Walz, Data4Life.care  |   |
 |  04.09.2024 |  Kontaminationslandschaften: spatio-temporale Risikoanalyse für nosokomiale Infektionen | Christoph Höser, Universität Bonn  |   |
 
-<center><iframe width="330" height="210" src="https://www.youtube.com/embed/qknVuj5XohM?si=zd9prDstId0hfQR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 ---
-<p style="font-size:11px">Organized by <a href="mocomed.de">GMDS AG MoCoMed</a></p>
+<p style="font-size:11px">Organized by <a href="http://mocomed.de">GMDS AG MoCoMed</a></p>

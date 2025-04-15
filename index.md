@@ -14,7 +14,7 @@
 <img src="images/xtratrackslogo2023.jpg?raw=true"/>-->
 
 ---
-<p style="font-size:11px">Organized by <a href="mocomed.de">GMDS AG MoCoMed</a></p>
+<p style="font-size:11px">Organized by <a href="http://mocomed.de">GMDS AG MoCoMed</a></p>
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
 
