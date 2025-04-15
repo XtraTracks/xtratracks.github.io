@@ -1,4 +1,4 @@
-### XtraTrack Sessions 2023 - „Facetten der Selbstvermessung“
+### XtraTrack Season 2023 - „Facetten der Selbstvermessung“
 
 <p style="font-size:11px">Im Rahmen der 6 8. GMDS-Jahrestagung 2023 fand ein erster spannender Dialog statt. Die Gespräche über das Prinzip und den Nutzen sowie über die Hürden der Selbstvermessung zeigten deutlich, dass die Einstellung zu diesem Thema von der Erfahrung mit Krankheit bzw. Gesundheit aus dem persönlichen Umfeld geprägt ist.
 

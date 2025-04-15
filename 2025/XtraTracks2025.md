@@ -1,4 +1,4 @@
-### XtraTrack Sessions 2025 - Telemedicine
+### XtraTrack Season 2025 - Telemedicine
 
 <p style="font-size:11px">INTRODUCTION TEXT</p>
 

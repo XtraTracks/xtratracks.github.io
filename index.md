@@ -1,15 +1,15 @@
 
 ### The XtraTrack Sessions
 
-[XtraTracks 2025 -Telemedicine <img src="images/xtratrackslogo2025.jpg?raw=true"/>](/XtraTracks2025)
+[XtraTracks 2025 -Telemedicine <img src="images/xtratrackslogo2025.jpg?raw=true"/>](/2025/XtraTracks2025)
 
 ---
-[XtraTracks 2024 - Mobile Bio Signal Verarbeitung <img src="images/xtratrackslogo2024.jpg?raw=true"/>](/XtraTracks2024)
+[XtraTracks 2024 - Mobile Bio Signal Verarbeitung <img src="images/xtratrackslogo2024.jpg?raw=true"/>](/2024/XtraTracks2024)
 
 
 ---
-[XtraTracks 2023 - ](/XtraTracks2024)
-<img src="images/xtratrackslogo2023.png?raw=true"/>
+[XtraTracks 2023 - Facetten der Selbstvermessung <img src="images/xtratrackslogo2023.png?raw=true"/>](/2023/XtraTracks2023)
+
 
 ---
 <p style="font-size:11px">Organized by <a href="http://mocomed.de">GMDS AG MoCoMed</a></p>
