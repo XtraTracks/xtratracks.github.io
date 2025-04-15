@@ -1,14 +1,14 @@
 
 ### The XtraTrack Sessions
 
-[XtraTracks 2025 -Telemedicine <img src="images/xtratrackslogo2025.jpg?raw=true"/>](/2025/XtraTrackOverview)
+[XtraTracks 2025 -Telemedicine <img src="images/xtratrackslogo2025.jpg?raw=true"/>](/2025/XtraTracksOverview)
 
 ---
-[XtraTracks 2024 - Mobile Bio Signal Verarbeitung <img src="images/xtratrackslogo2024.jpg?raw=true"/>](/2024/XtraTrackOverview)
+[XtraTracks 2024 - Mobile Bio Signal Verarbeitung <img src="images/xtratrackslogo2024.jpg?raw=true"/>](/2024/XtraTracksOverview)
 
 
 ---
-[XtraTracks 2023 - Facetten der Selbstvermessung <img src="images/xtratrackslogo2023.png?raw=true"/>](/2023/XtraTrackOverview)
+[XtraTracks 2023 - Facetten der Selbstvermessung <img src="images/xtratrackslogo2023.png?raw=true"/>](/2023/XtraTracksOverview)
 
 
 ---
