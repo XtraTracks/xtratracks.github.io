@@ -25,10 +25,5 @@ In diesem Vortrag wird ein Einblick in die schlafmedizinischen Hintergründe und
 <img src="/images/2024/csm_MiriamGoldammer_8ffa2b1b2a.jpg?raw=true"/>
 
 
-<!-- second speaker-->
-<!--<img src="/images/??/USER.jpg?raw=true"/>
-
-<p style="font-size:11px">CV</p>-->
-
 ---
-<p style="font-size:11px">Organized by <a href="http://mocomed.de">GMDS AG MoCoMed</a></p>w
+<p style="font-size:11px">Organized by <a href="http://mocomed.de">GMDS AG MoCoMed</a></p>

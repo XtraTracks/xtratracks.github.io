@@ -27,7 +27,7 @@ In the end, we envision that GestaltMatcher and GMDB can be integrated into a di
 <!-- second speaker-->
 <img src="/images/2024/csm_Hsieh_2eee4a3cc4.png?raw=true"/>
 
-<p style="font-size:11px">CV</p>
+
 
 ---
 <p style="font-size:11px">Organized by <a href="http://mocomed.de">GMDS AG MoCoMed</a></p>
