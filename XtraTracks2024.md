@@ -1,10 +1,8 @@
-### XtraTrack Sessions 2024 - Mobile Biosignal- und Bildverarbeitung in der Medizin – Ausblick in die Zukunft
-
-[XtraTracks 2024 - Mobile Biosignal- und Bildverarbeitung in der Medizin – Ausblick in die Zukunft]
+### XtraTrack Season 2024 - Mobile Biosignal- und Bildverarbeitung in der Medizin – Ausblick in die Zukunft
 
 <p style="font-size:11px">Die GMDS AG Medizinische Bild- und Signalverabeitung, das IEEE Germany Chapter of Engineering in Medicine and Biology Society (EMBS) und die GMDS AG Mobile Informationstechnologie in der Medizin und Telemedizin (MoCoMed) haben zusammen die diesjährige XtraTracks Reihe zu dem Themenfeld "Mobile Biosignal- und Bildverarbeitung in der Medizin" organisiert. </p>
 
-[Overview of the Lecture Series]
+## Overview of the Lecture Series
 
 
 <center><iframe width="330" height="210" src="https://www.youtube.com/embed/qknVuj5XohM?si=zd9prDstId0hfQR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>

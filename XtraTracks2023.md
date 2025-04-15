@@ -1,10 +1,8 @@
-### XtraTrack Sessions 2023 - TITLE
-
-[XtraTracks 2023 - ??]
+### XtraTrack Sessions 2023 - ??
 
 <p style="font-size:11px">INTRODUCTION TEXT</p>
 
-[Overview of the Lecture Series]
+## Overview of the Lecture Series
 
 <!-- Register now to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 

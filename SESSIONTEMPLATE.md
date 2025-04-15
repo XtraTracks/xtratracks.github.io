@@ -1,10 +1,9 @@
-### XtraTrack Sessions 2025 - TITLE
+### XtraTrack Session 2025 - SESSIONTITLE
 
-[XtraTracks 2025 -Telemedicine]
 
 <p style="font-size:11px">INTRODUCTION TEXT</p>
 
-[Overview of the Lecture Series]
+## Overview of the Lecture Series
 
 <!-- Register now to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
