@@ -13,7 +13,7 @@ Detailed information about the speakers can be accessed by clicking on the respe
 
 |Date   |Title   |Speaker   | Talk   |
 |---|---|---|---|
-| 22.05.2024  | [Einführung / Übersicht](XtraTracks2024-1)  |  Andreas Koop, Nicolai Spicher, Sebastian Fudickar](XtraTracks2024-1) |   |
+| 22.05.2024  | [Einführung / Übersicht](XtraTracks2024-1)  |  [Andreas Koop, Nicolai Spicher, Sebastian Fudickar](XtraTracks2024-1) |   |
 | 22.05.2024  | [Next-generation phenotyping for rare genetic disorders](XtraTracks2024-2) | [Jean Tori Pantel (RWTH Aachen), Tzung-Chien](XtraTracks2024-1)  |   |
 |05.06.2024   | [HerzFit - Patientengenerierte Daten in der kardiovaskulären Prävention](XtraTracks2024-3)  |  [Lara Reimer (UK Bonn)](XtraTracks2024-3) |   |
 | 19.06.2024  | [Move2Screen: An Android App for symptomatic Monitoring of Dystonia ](XtraTracks2024-4)  | [Roland Stenger, (Universität zu Lübeck) ](XtraTracks2024-4)|   |
