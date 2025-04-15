@@ -16,7 +16,7 @@ Detailed information about the speakers can be accessed by clicking on the respe
 
 |Date   |Title   |Speaker   |Register / Talk   |
 |---|---|---|---|
-| 07-05-2025 16:00 | [Introduction / Training and Education in Digital Medicine  | Christian Juhra](XtraTracks2025-1.md)  | [Register]()  |
+| 07-05-2025 16:00 | [Introduction / Training and Education in Digital Medicine](XtraTracks2025-1.md)  | [Christian Juhra](XtraTracks2025-1.md)  | [Register]()  |
 | 14-05-2025 16:00  | Provincial Virtual Care for Addressing Patient Emergencies at Their Finger Tips: the BC 811 Experience  |  Kendall Ho | [Register]()  |
 | 21-05-2025 16:00  | AI in Medicine - Progress, Perils, and Perspectives  | Tim Hahn  | [Register]()  |
 | 28-05-2025 16:00 | AI in Bioinformatics: Fighting the global threat of antimicrobial resistance | Dominik Heider  | [Register]() |
