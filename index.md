@@ -1,6 +1,3 @@
-## Portfolio
-
----
 
 ### The XtraTrack Sessions
 
