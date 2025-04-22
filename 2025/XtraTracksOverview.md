@@ -30,5 +30,4 @@ Detailed information about the speakers can be accessed by clicking on the respe
 | 23-07-2025 16:00 | [Die virtuelle Kinder-Sprechstunde in NRW (Lecture in German)](XtraTracks2025-12.md)  | [Bernhard Acke](XtraTracks2025-12.md) | [Register]()  |
 
 ---
----
-<center><p style="font-size:11px">Organized by <a href="http://mocomed.de">GMDS AG MoCoMed</a></p> / <a href="imprint">Impressum / Privacy</a></p></center>
+<center><p style="font-size:11px">Organized by <a href="http://mocomed.de">GMDS AG MoCoMed</a> / <a href="/imprint">Impressum / Privacy</a></p></center>
