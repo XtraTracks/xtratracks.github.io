@@ -20,4 +20,4 @@
 <p style="font-size:11px">Dr. Lara Marie Reimer leitet die BMBF-Nachwuchsgruppe "NDEMobil" am Institut für Digitale Medizin des Universitätsklinikums Bonn. Fokus ihrer Gruppe mit 4 Mitarbeitern ist die Analyse mobiler Daten zur Verlaufsüberwachung neurodegenerativer Erkrankungen. Gemeinsam mit ihrem Team entwickelt sie Apps und Algorithmen zur Identifikation aktiver und passiver digitaler Biomarker, die z.B. auf eine beginnende Alzheimer- oder Parkinsonerkrankung hinweisen. </p>
 
 ---
-<center><p style="font-size:11px">Organized by <a href="http://mocomed.de">GMDS AG MoCoMed</a></p> / <a href="imprint">Impressum / Privacy</a></p></center>
+<center><p style="font-size:11px">Organized by <a href="http://mocomed.de">GMDS AG MoCoMed</a> / <a href="/imprint">Impressum / Privacy</a></p></center>
