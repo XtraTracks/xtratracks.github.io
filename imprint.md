@@ -74,46 +74,49 @@ Messpixel sind meist nur 1×1 Pixel groß bemessene Bilder und sind transparent 
 Meist wird diese Funktion durch einen JavaScript-Aufruf realisiert, dennoch wird weiterhin der Begriff Messpixel verwendet.
 
 ### 4 Ihre Rechte
-• Ihnen steht das Recht zu, von uns zu erfahren, ob von der AG MoCoMed Sie betreffende Daten verarbeitet werden.
-• Weiterhin haben Sie ein Auskunftsrecht über zu Ihrer Person gespeicherte personenbezogene Daten.
-• Desgleichen haben Sie das Recht, die unverzügliche Berichtigung Ihrer Person betreffende unrichtige personenbezogene Daten zu verlangen. Ferner steht Ihnen das Recht zu, unter Berücksichtigung der Zwecke der Verarbeitung, die Vervollständigung unvollständiger personenbezogener Daten zu Ihrer Person - auch mittels einer ergänzenden Erklärung - zu verlangen.
-• Auch haben Sie das Recht, dass die Sie betreffenden personenbezogenen Daten unverzüglich gelöscht werden, wenn keine rechtlichen Gründe die Löschung verbieten.
-• Außerdem steht Ihnen das Recht zu, unter den Voraussetzungen von Art. 18 Datenschutz-Grundverordnung die Einschränkung der Verarbeitung zu verlangen.
-• Gleichermaßen steht Ihnen das Recht zu, die sie betreffenden personenbezogenen Daten, welche Sie der AG MoCoMed bereitgestellten, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten.
-• Sie haben ergänzend das Recht, diese Daten unter den Voraussetzungen von Art. 20 Datenschutz-Grundverordnung einem anderen Verantwortlichen zu übermitteln
-• Ebenso haben Sie das Recht, gegen die Verarbeitung sie betreffender personenbezogener Daten, die aufgrund von Art. 6 Abs. 1 Buchstaben e oder f DS-GVO erfolgt, Widerspruch einzulegen.
-• Und natürlich haben Sie das Recht, jederzeit eine Einwilligung zur Verarbeitung personenbezogener Daten zu widerrufen.
-• Sie haben auch das Recht, nicht einer ausschließlich auf einer automatisierten Verarbeitung - einschließlich Profiling - beruhenden Entscheidung unterworfen zu werden.
-• Zur Klarstellung: Bei der AG MoCoMed finden keine derartigen Entscheidungen statt, aber auf Grund des europäischen Rechts müssen wir Sie über dieses Recht informieren.
-• Ferner haben Sie das Recht, sich an eine Aufsichtsbehörde zu wenden und dort ggf. zu beschweren. Eine Liste der Aufsichtsbehörden (für den nichtöffentlichen Bereich) mit Anschrift finden Sie unter: https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html.
+* Ihnen steht das Recht zu, von uns zu erfahren, ob von der AG MoCoMed Sie betreffende Daten verarbeitet werden.
+* Weiterhin haben Sie ein Auskunftsrecht über zu Ihrer Person gespeicherte personenbezogene Daten.
+* Desgleichen haben Sie das Recht, die unverzügliche Berichtigung Ihrer Person betreffende unrichtige personenbezogene Daten zu verlangen. Ferner steht Ihnen das Recht zu, unter Berücksichtigung der Zwecke der Verarbeitung, die Vervollständigung unvollständiger personenbezogener Daten zu Ihrer Person - auch mittels einer ergänzenden Erklärung - zu verlangen.
+* Auch haben Sie das Recht, dass die Sie betreffenden personenbezogenen Daten unverzüglich gelöscht werden, wenn keine rechtlichen Gründe die Löschung verbieten.
+* Außerdem steht Ihnen das Recht zu, unter den Voraussetzungen von Art. 18 Datenschutz-Grundverordnung die Einschränkung der Verarbeitung zu verlangen.
+* Gleichermaßen steht Ihnen das Recht zu, die sie betreffenden personenbezogenen Daten, welche Sie der AG MoCoMed bereitgestellten, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten.
+* Sie haben ergänzend das Recht, diese Daten unter den Voraussetzungen von Art. 20 Datenschutz-Grundverordnung einem anderen Verantwortlichen zu übermitteln
+* Ebenso haben Sie das Recht, gegen die Verarbeitung sie betreffender personenbezogener Daten, die aufgrund von Art. 6 Abs. 1 Buchstaben e oder f DSGVO erfolgt, Widerspruch einzulegen.
+* Und natürlich haben Sie das Recht, jederzeit eine Einwilligung zur Verarbeitung personenbezogener Daten zu widerrufen.
+* Sie haben auch das Recht, nicht einer ausschließlich auf einer automatisierten Verarbeitung - einschließlich Profiling - beruhenden Entscheidung unterworfen zu werden.
+* Zur Klarstellung: Bei der AG MoCoMed finden keine derartigen Entscheidungen statt, aber auf Grund des europäischen Rechts müssen wir Sie über dieses Recht informieren.
+* Ferner haben Sie das Recht, sich an eine Aufsichtsbehörde zu wenden und dort ggf. zu beschweren. Eine Liste der Aufsichtsbehörden (für den nichtöffentlichen Bereich) mit Anschrift finden Sie unter: https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html.
+
 Bitte wenden Sie sich an die untenstehende E-Mail-Adresse, wenn Sie Ihre Rechte wahrnehmen wollen, ebenso wenn Sie Fragen über die gespeicherten Informationen haben.
 Kontaktadresse: info.skfit.luebeck(at)uksh(dot)de
 
 ### 5 Rechtsgrundlagen der Verarbeitung personenbezogener Daten
 Im Datenschutz gilt das sogenannte Verbot mit Erlaubnisvorbehalt. Demnach ist eine Verarbeitung personenbezogener Daten grundsätzlich rechtswidrig, es sei denn, es liegt eine Einwilligung des Betroffenen vor oder sie wird durch einen gesetzlich geregelten Erlaubnisgrund legitimiert. Wir sind verpflichtet, Sie über die Rechtsgrundlagen der Datenverarbeitung zu informieren.
-• Wenn wir für die Verarbeitung personenbezogener Daten Ihre Einwilligung einholen, dient Art. 6 Abs. 1 lit. a DSGVO als Rechtsgrundlage.
-• Bei Verarbeitungsvorgängen, die zur Erfüllung eines zwischen Ihnen und uns geschlossenen Vertrages oder zur Durchführung vorvertraglicher Maßnahmen erforderlich sind (z.B. wenn Sie sich an eine unserer Veranstaltungen anmelden), dient Art. 6 Abs. 1 lit. b DSGVO als Rechtsgrundlage.
-• Ist die Verarbeitung personenbezogener Daten zur Erfüllung einer rechtlichen Verpflichtung, der wir unterliegen, erforderlich, wie etwa gesetzliche Aufbewahrungs- und Speicherpflichten, dient Art. 6 Abs. 1 lit. c DSGVO als Rechtsgrundlage.
-• Ist die Verarbeitung zur Wahrung unserer oder der berechtigten Interessen eines Dritten erforderlich und überwiegen Ihre Interessen, Grundrechte und Grundfreiheiten das erstgenannte Interesse nicht, so wird die Verarbeitung personenbezogener Daten durch Art. 6 Abs. 1 lit. f DSGVO legitimiert.
+
+* Wenn wir für die Verarbeitung personenbezogener Daten Ihre Einwilligung einholen, dient Art. 6 Abs. 1 lit. a DSGVO als Rechtsgrundlage.
+* Bei Verarbeitungsvorgängen, die zur Erfüllung eines zwischen Ihnen und uns geschlossenen Vertrages oder zur Durchführung vorvertraglicher Maßnahmen erforderlich sind (z.B. wenn Sie sich an eine unserer Veranstaltungen anmelden), dient Art. 6 Abs. 1 lit. b DSGVO als Rechtsgrundlage.
+* Ist die Verarbeitung personenbezogener Daten zur Erfüllung einer rechtlichen Verpflichtung, der wir unterliegen, erforderlich, wie etwa gesetzliche Aufbewahrungs- und Speicherpflichten, dient Art. 6 Abs. 1 lit. c DSGVO als Rechtsgrundlage.
+* Ist die Verarbeitung zur Wahrung unserer oder der berechtigten Interessen eines Dritten erforderlich und überwiegen Ihre Interessen, Grundrechte und Grundfreiheiten das erstgenannte Interesse nicht, so wird die Verarbeitung personenbezogener Daten durch Art. 6 Abs. 1 lit. f DSGVO legitimiert.
 
 ### 6 Welche Daten werden zu welchen Zwecken verarbeitet?
 #### 6.1 Datenerhebung beim Besuch unserer Websites
 Sie sind herzlich eingeladen, dieser Website zu besuchen. Wenn Sie diese Site besuchen, werden jedoch bestimmte Informationen zum Routing sowie zu technischen Daten ihres Computers erhoben, die technisch notwendig sind, um Ihnen unsere Websites anzeigen zu können und Stabilität und Sicherheit zu gewährleisten. Verarbeitet werden zum Beispiel:
-1. die Internet Protokoll-Adresse,
-2. das Datum und die Uhrzeit eines Zugriffs auf die Internetseite,
-3. die Internetseite, von welcher ein zugreifendes System auf unsere Internetseite gelangt (sogenannte Referrer),
-4. welche Webseite sowie welche Datei Sie aufrufen,
-5. Zugriffsstatus/HTTP-Statuscode
-6. Übertrage Datenmenge
-7. das Betriebssystem (MS Windows 7, MS Windows 10, Linux, usw.),
-8. Umgebungsdaten wie der Browsertyp (Internet Explorer, Firefox, usw.),
-9. die Geschwindigkeit Ihres Zentralrechners,
-10. Name Ihres Internet-Zugangs-Providers.
+* die Internet Protokoll-Adresse,
+* das Datum und die Uhrzeit eines Zugriffs auf die Internetseite,
+* die Internetseite, von welcher ein zugreifendes System auf unsere Internetseite gelangt (sogenannte Referrer),
+* welche Webseite sowie welche Datei Sie aufrufen,
+* Zugriffsstatus/HTTP-Statuscode
+* Übertrage Datenmenge
+* das Betriebssystem (MS Windows 7, MS Windows 10, Linux, usw.),
+* Umgebungsdaten wie der Browsertyp (Internet Explorer, Firefox, usw.),
+* die Geschwindigkeit Ihres Zentralrechners,
+* Name Ihres Internet-Zugangs-Providers.
 
 Bei der Nutzung dieser allgemeinen Daten und Informationen werden keine Rückschlüsse auf die betroffene Person gezogen. Diese Informationen werden vielmehr benötigt, um
-(1) die Inhalte unserer Internetseite korrekt auszuliefern,
-(2) die dauerhafte Funktionsfähigkeit unserer informationstechnologischen Systeme und der Technik unserer Internetseite zu gewährleisten sowie
-(3) um Strafverfolgungsbehörden im Falle eines Cyberangriffes die zur Strafverfolgung notwendigen Informationen bereitzustellen.
+* die Inhalte unserer Internetseite korrekt auszuliefern,
+* die dauerhafte Funktionsfähigkeit unserer informationstechnologischen Systeme und der Technik unserer Internetseite zu gewährleisten sowie
+* um Strafverfolgungsbehörden im Falle eines Cyberangriffes die zur Strafverfolgung notwendigen Informationen bereitzustellen.
+
 Zur Gewährleistung der oben genannten Zwecke werden diese Daten für die Dauer von maximal vierzehn Tagen vorübergehend in den Logfiles unseres Systems gespeichert.
 Die Rechtsgrundlage für diese Verarbeitungsvorgänge ist Art. 6 Abs. 1 lit. f DSGVO.
 
@@ -148,9 +151,9 @@ Bei jedem Kontaktformular sind die Felder mit einem „*“ gekennzeichnet, die 
 Sie werden jedoch immer informiert und müssen der Übersendung Ihrer personenbezogener Daten zustimmen, bevor ihre Daten übermittelt werden.
 Wenn Sie personenbezogene Daten anderer Personen übermitteln, stellen Sie bitte sicher, dass diese Personen über diese Richtlinien zum Schutz der persönlichen Daten informiert sind, diese einsehen können und der Übermittlung der Daten zustimmen.
 Die Daten werden ausschließlich zur Bearbeitung der dargelegten Zwecke verwendet und – sofern uns keine gesetzlichen Aufbewahrungsfristen zur Speicherung zwingen – nach der Bearbeitung unverzüglich gelöscht. Eine Weitergabe Ihrer Daten an oder deren Verarbeitung durch Dritte ist ausgeschlossen.
-• Rechtsgrundlage für die Verarbeitung der Daten ist bei Vorliegen Ihrer Einwilligung Art. 6 Abs. 1 lit. a DSGVO.
-• Dient die Registrierung der Erfüllung eines Vertrages, dessen Vertragspartei Sie sind oder der Durchführung vorvertraglicher Maßnahmen, so ist zusätzliche Rechtsgrundlage für die Verarbeitung der Daten Art. 6 Abs. 1 lit. b DSGVO.
 
+* Rechtsgrundlage für die Verarbeitung der Daten ist bei Vorliegen Ihrer Einwilligung Art. 6 Abs. 1 lit. a DSGVO.
+* Dient die Registrierung der Erfüllung eines Vertrages, dessen Vertragspartei Sie sind oder der Durchführung vorvertraglicher Maßnahmen, so ist zusätzliche Rechtsgrundlage für die Verarbeitung der Daten Art. 6 Abs. 1 lit. b DSGVO.
 
 #### 6.7 Social Media / Twitter
 Die AG MoCoMed greift für den hier angebotenen Kurznachrichtendienst auf die technische Plattform und die Dienste der Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103 U.S.A. zurück. Verantwortlich für die Datenverarbeitung von außerhalb der Vereinigten Staaten lebenden Personen ist die Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2 D02 AX07, Irland.
@@ -166,15 +169,15 @@ Schließlich erhält Twitter auch Informationen, wenn Sie z.B. Inhalte ansehen, 
 Über in Webseiten eingebundene Twitter-Buttons oder -Widgets und die Verwendung von Cookies ist es Twitter möglich, Ihre Besuche auf diesen Webseiten zu erfassen und Ihrem Twitter-Profil zuzuordnen. Anhand dieser Daten können Inhalte oder Werbung auf Sie zugeschnitten angeboten werden.
 Möglichkeiten, die Verarbeitung Ihrer Daten zu beschränken, haben Sie bei den allgemeinen Einstellungen Ihres Twitter-Kontos sowie unter dem Punkt „Datenschutz und Sicherheit“. Darüber hinaus können Sie bei Mobilgeräten (Smartphones, Tablet-Computer) in den dortigen Einstellmöglichkeiten den Zugriff von Twitter auf Kontakt- und Kalenderdaten, Fotos, Standortdaten etc. beschränken. Dies ist jedoch abhängig vom genutzten Betriebssystem.
 Weitere Informationen finden sie bei Twitter selbst:
-• Twitter Supportseiten
+* Twitter Supportseiten
 support.twitter.com/articles/105576
-• Twitter Datenschutz-Informationen
+* Twitter Datenschutz-Informationen
 help.twitter.com/de/search
-• Informationen, die eigenen Daten einsehen zu können
+* Informationen, die eigenen Daten einsehen zu können
 support.twitter.com/articles/20172711
-• Informationen über von Twitter erstellte Rückschlüsse basierend auf ihren Daten
+* Informationen über von Twitter erstellte Rückschlüsse basierend auf ihren Daten
 twitter.com/your_twitter_data
-• Informationen zu den vorhandenen Personalisierungs- und Datenschutzeinstellmöglichkeiten
+* Informationen zu den vorhandenen Personalisierungs- und Datenschutzeinstellmöglichkeiten
 https://twitter.com/personalization
 
 #### 6.8 Youtube
@@ -201,9 +204,9 @@ Soweit wir zur Durchführung und Abwicklung von Verarbeitungsprozessen Dienstlei
 
 ### 11 Datenübermittlung in Drittstaaten
 Eine Verarbeitung in Drittstaaten findet statt:
-1. Im Rahmen der Reichweitenmessung (Empfänger der Daten: Google Inc, 1600 Amphitheatre Parkway, Mountain View, CA 94.043 USA.)
-2. Bei Nutzung der Twitter-Funktionalität (Empfänger der Daten: Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103 USA.)
-3. Bei Nutzung von YouTube (Empfänger der Daten: YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA)
+* Im Rahmen der Reichweitenmessung (Empfänger der Daten: Google Inc, 1600 Amphitheatre Parkway, Mountain View, CA 94.043 USA.)
+* Bei Nutzung der Twitter-Funktionalität (Empfänger der Daten: Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103 USA.)
+* Bei Nutzung von YouTube (Empfänger der Daten: YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA)
 Eine weitere Verarbeitung in Drittstaaten findet nicht statt.
 
 ### 12 Externe Links
