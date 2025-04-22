@@ -38,11 +38,4 @@
 <p style="font-size:11px">CV</p>-->
 
 ---
-<p style="font-size:11px">Organized by <a href="http://mocomed.de">GMDS AG MoCoMed</a></p>
-
-
-
-
-
-
-
+<center><p style="font-size:11px">Organized by <a href="http://mocomed.de">GMDS AG MoCoMed</a></p> / <a href="imprint">Impressum / Privacy</a></p></center>

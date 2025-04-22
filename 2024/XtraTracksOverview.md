@@ -25,6 +25,4 @@ Detailed information about the speakers can be accessed by clicking on the respe
 |  04.09.2024 |  [Kontaminationslandschaften: spatio-temporale Risikoanalyse für nosokomiale Infektionen ](XtraTracks2024-10)| [Christoph Höser, Universität Bonn](XtraTracks2024-10) |
 
 ---
-<p style="font-size:11px">Organized by <a href="http://mocomed.de">GMDS AG MoCoMed</a></p>
-
-[](XtraTracks2024-1)
+<center><p style="font-size:11px">Organized by <a href="http://mocomed.de">GMDS AG MoCoMed</a></p> / <a href="imprint">Impressum / Privacy</a></p></center>

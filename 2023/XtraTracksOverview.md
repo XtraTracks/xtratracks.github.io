@@ -26,4 +26,4 @@ Detailed information about the speakers can be accessed by clicking on the respe
 | 16.08.2023  | [AllesHealth - Working towards empowering patients and carers across the world by building a circular economy  ](XtraTracks2023-7)| [Dr. Andreas Koop, Sundeep Gaba ](XtraTracks2023-7) |   |
 
 ---
-<p style="font-size:11px">Organized by <a href="http://mocomed.de">GMDS AG MoCoMed</a></p>
+<center><p style="font-size:11px">Organized by <a href="http://mocomed.de">GMDS AG MoCoMed</a></p> / <a href="imprint">Impressum / Privacy</a></p></center>
