@@ -10,13 +10,13 @@
 
 Detailed information about the speakers can be accessed by clicking on the respective lecture titles.
 
-<p style="font-size:11px"><a href="">Register for this XtraTrack Season</a></p>
+<p style="font-size:11px"><a href="https://www.eventbrite.com/cc/xtratracks25-telemedicine-4261993">Register for this XtraTrack Season</a></p>
 
 ---
 
 |Date   |Title   |Speaker   |Register / Talk   |
 |---|---|---|---|
-| 07-05-2025 16:00 | [Introduction / Training and Education in Digital Medicine](XtraTracks2025-1.md)  | [Christian Juhra](XtraTracks2025-1.md)  | [Register]()  |
+| 07-05-2025 16:00 | [Introduction / Training and Education in Digital Medicine](XtraTracks2025-1.md)  | [Christian Juhra](XtraTracks2025-1.md)  | [Register](https://www.eventbrite.com/e/xtratracks-251-introduction-training-and-education-in-digital-medicine-tickets-1335478615489)  |
 | 14-05-2025 16:00  | [Provincial Virtual Care for Addressing Patient Emergencies at Their Finger Tips: the BC 811 Experience](XtraTracks2025-2.md)  |  [Kendall Ho](XtraTracks2025-2.md) | [Register]()  |
 | 21-05-2025 16:00  | [AI in Medicine - Progress, Perils, and Perspectives](XtraTracks2025-3.md)  | [Tim Hahn](XtraTracks2025-3.md)  | [Register]()  |
 | 28-05-2025 16:00 | [AI in Bioinformatics: Fighting the global threat of antimicrobial resistance](XtraTracks2025-4.md) | [Dominik Heider](XtraTracks2025-4.md)  | [Register]() |
