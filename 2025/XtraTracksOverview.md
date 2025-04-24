@@ -32,5 +32,10 @@ Detailed information about the speakers can be accessed by clicking on the respe
 | 16-07-2025 16:00  | [Die digitale Hausarztpraxis (Lecture in German)](XtraTracks2025-11.md)  | [Stefan Spieren / Sven Meister](XtraTracks2025-11.md) | [Register](https://www.eventbrite.de/e/xtratracks-2511-die-digitale-hausarztpraxis-lecture-in-german-tickets-1335492868119)  |
 | 23-07-2025 16:00 | [Die virtuelle Kinder-Sprechstunde in NRW (Lecture in German)](XtraTracks2025-12.md)  | [Bernhard Acke](XtraTracks2025-12.md) | [Register](https://www.eventbrite.de/e/xtratracks-2512-die-virtuelle-kinder-sprechstunde-in-nrw-in-german-tickets-1335493429799)  |
 
+## Trainingpoint-FAQ:
+* None so far.
+
+<p style="font-size:11px">In case you have questions regarding the colelction of trainingpoints (Weiterbildungspunkten) of the Westpalia Lippe Physician Association. Please send an eMail to: franziska.emming [a@t]ukmuenster.de </p>
+
 ---
 <center><p style="font-size:11px">Organized by <a href="http://mocomed.de">GMDS AG MoCoMed</a> / <a href="/imprint">Impressum / Privacy</a></p></center>
