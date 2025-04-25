@@ -1,31 +1,64 @@
 
 ## Impressum
 
+Betreiber 
+Deutsche Gesellschaft für Medizinische Informatik,
+Biometrie und Epidemiologie (GMDS) e.V.
+c/o TMF e.V.
+Charlottenstraße 42
+D-10117 Berlin
 
-Herausgeber
-Universität zu Lübeck
-Ratzeburger Allee 160, 23562 Lübeck
-Telefon: +49 451 3101 0
-E-Mail:  info(at)uni-luebeck.de
+Tel.: +49(0) 172-9278-404
+E-Mail: geschaeftsstelle@gmds.de
 
-Vertretungsberechtigte Personen
-Die Universität zu Lübeck ist eine Stiftung des öffentlichen Rechts. Sie wird durch den Präsidenten Prof. Dr. Helge Braun vertreten.
+German Association for Medical Informatics, Biometry and Epidemiology (GMDS)
 
-Aufsichtsführende Behörde
-Die Hochschulen nehmen ihre Aufgaben im eigenen Namen unter Rechtsaufsicht des Landes Schleswig-Holstein wahr (Selbstverwaltungsangelegenheiten).
+Vertretungsberechtigte Personen:
+Präsident: Prof. Dr. André Scherag 
 
-Rechtsaufsicht:
-Ministerium für Bildung, Wissenschaft und Kultur des Landes Schleswig-Holstein
-Jensendamm 5, 24103 Kiel
+1. Vizepräsident: Prof. Dr. Hans-Ulrich Prokosch
+2. Vizepräsident: Prof. Dr. Harald Binder
 
-Steueridentifikationsnummer
-DE 202095138
+Vereinsregister:
+VR 16225 Amtsgericht Köln
 
-Inhaltlich Verantwortlicher
-Prof. Dr. Sebastian Fudickar, SKFIT
+Umsatzsteuer-Identifikationsnummer:
+DE 182645846
 
-Tel.: +49 451 500-52701
-E-Mail: info.skfit.luebeck(at)uksh(dot)de
+Inhaltlich Verantwortliche gemäß § 55 Abs. 2 Rundfunkstaatsvertrag (RStV)
+Annalena Herzog, Geschäftsführerin
+Deutsche Gesellschaft für Medizinische Informatik,
+Biometrie und Epidemiologie (GMDS) e.V.
+c/o TMF e.V.
+Charlottenstraße 42
+D-10117 Berlin
+
+
+## Haftungshinweis
+Alle auf dieser Website enthaltenen Informationen wurden mit großer Sorgfalt erstellt. Wir übernehmen jedoch keine Gewähr dafür, dass die Inhalte unserer eigenen Web-Seiten jederzeit korrekt, vollständig und auf dem neuesten Stand sind.
+Diensteanbieter sind gemäß § 7 Abs.1 TMG für eigene Inhalte auf den von ihnen angebotenen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8, 9 und 10 TMG sind Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
+
+Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
+
+Hinweis zur Problematik von externen Links
+Die GMDS ist als Inhaltsanbieter nach § 7 Abs.1 Telemediengesetz für die “eigenen Inhalte”, die er zur Nutzung bereithält, nach den allgemeinen Gesetzen verantwortlich. Von diesen eigenen Inhalten sind Querverweise (“Links”) auf die von anderen Anbietern bereitgehaltenen Inhalte zu unterscheiden. Durch den Querverweis hält die GMDS insofern “fremde Inhalte” zur Nutzung bereit, die in dieser Weise gekennzeichnet sind:
+
+Bei “Links” handelt es sich stets um “lebende” (dynamische) Verweisungen. Die GMDS hat bei der erstmaligen Verknüpfung zwar den fremden Inhalt daraufhin überprüft, ob durch ihn eine mögliche zivilrechtliche oder strafrechtliche Verantwortlichkeit ausgelöst wird. Die GMDS überprüft aber die Inhalte, auf die sie in ihrem Angebot verweist, nicht ständig auf Veränderungen, die eine Verantwortlichkeit neu begründen könnten. Wenn sie feststellt oder von anderen darauf hingewiesen wird, dass ein konkretes Angebot, zu dem er einen Link bereitgestellt hat, eine zivil- oder strafrechtliche Verantwortlichkeit auslöst, wird sie den Verweis auf dieses Angebot aufheben.
+
+Sollten Sie auf den Seiten dieses Internetangebotes oder auf solchen, auf die verwiesen wird, bedenkliche oder rechtswidrige Inhalte feststellen, ist die GMDS für einen entsprechenden Hinweis dankbar.
+
+Verfügbarkeit der Website
+Die GMDS wird sich bemühen, den Dienst möglichst unterbrechungsfrei zum Abruf anzubieten. Auch bei aller Sorgfalt können aber Ausfallzeiten nicht ausgeschlossen werden. Die GMDS behält sich das Recht vor, ihr Angebot jederzeit zu ändern oder einzustellen. Für durch nicht fehlerfrei angelegte Dateien oder nicht fehlerfrei strukturierte Formate bedingte Unterbrechungen oder anderweitige Störungen können wir keine Gewähr übernehmen.
+
+Urheberecht
+Im Übrigen sind die Seiten der GMDS Website geschützt und unterliegen dem Urheberrecht. Sie dürfen weder kopiert noch anders vervielfältigt werden. Das Copyright liegt, sofern nicht anders vermerkt, bei der GMDS e.V.
+
+Streitschlichtungsverfahren
+Die Europäische Kommission stellt eine Plattform für die außergerichtliche Online-Streitbeilegung (OS-Plattform) bereit, die unter https://ec.europa.eu/consumers/odr aufrufbar ist. Wir sind weder verpflichtet noch bereit, an dem Streitschlichtungsverfahren teilzunehmen.
+
+Verbraucherschlichtung, Information gemäß § 36 VSBG
+Die GMDS ist weder bereit noch verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+
 
 ## Haftungshinweise/Disclaimer:
 1. Inhalt des Onlineangebotes
