@@ -4,7 +4,7 @@
 
 <!-- Register now to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
-<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lvGOJtw-H5c?si=9e_eYJ6gFgpk2tVz&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lvGOJtw-H5c?si=L5XU2SaWdoGHIcR0&amp;controls=0&amp;start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 <p style="font-size:13px"><a href="https://www.eventbrite.com/cc/xtratracks25-telemedicine-4261993">Register for this XtraTrack Season</a></p>
 
