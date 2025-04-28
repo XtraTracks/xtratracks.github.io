@@ -1,6 +1,6 @@
-### Kendall Ho- Provincial Virtual Care for Addressing Patient Emergencies at Their Finger Tips: the BC 811 Experience [(XtraTrack Season 2025)](/2025/XtraTrackOverview)
+### Kendall Ho- Provincial Virtual Care for Addressing Patient Emergencies at Their Finger Tips: the BC 811 Experience [(XtraTrack Season 2025)](/2025/XtraTracksOverview)
 
-[Overview](/2025/XtraTrackOverview)
+[Overview](/2025/XtraTracksOverview)
 
 <p style="font-size:11px">(14-05-2025 16:00)</p>
 

@@ -1,6 +1,6 @@
-### Sven Meister, Leonard Fehring - Digital Health Applications  [(XtraTrack Season 2025)](/2025/XtraTrackOverview)
+### Sven Meister, Leonard Fehring - Digital Health Applications  [(XtraTrack Season 2025)](/2025/XtraTracksOverview)
 
-[Overview](/2025/XtraTrackOverview)
+[Overview](/2025/XtraTracksOverview)
 
 <p style="font-size:11px">(02-07-2025 16:00)</p>
 

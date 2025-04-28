@@ -1,6 +1,6 @@
-### Christian Juhra - Introduction / Training and Education in Digital Medicine [(XtraTrack Season 2025)](XtraTrackOverview)
+### Christian Juhra - Introduction / Training and Education in Digital Medicine [(XtraTrack Season 2025)](XtraTracksOverview)
 
-[Overview](XtraTrackOverview)
+[Overview](XtraTracksOverview)
 
 <p style="font-size:11px">(07-05-2025 16:00)</p>
 

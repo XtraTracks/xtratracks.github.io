@@ -1,6 +1,6 @@
-### Elizabeth Borycki - Artificial Intelligence and Safety in Healthcare: Issues, Considerations and Future Research Directions [(XtraTrack Season 2025)](/2025/XtraTrackOverview)
+### Elizabeth Borycki - Artificial Intelligence and Safety in Healthcare: Issues, Considerations and Future Research Directions [(XtraTrack Season 2025)](/2025/XtraTracksOverview)
 
-[Overview](/2025/XtraTrackOverview)
+[Overview](/2025/XtraTracksOverview)
 
 <p style="font-size:11px">(18-06-2025 16:00)</p>
 

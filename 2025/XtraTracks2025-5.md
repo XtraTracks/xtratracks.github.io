@@ -1,6 +1,6 @@
-### SPEAKER - SESSIONTITLE [(XtraTrack Season 2025)](/2025/XtraTrackOverview)
+### SPEAKER - SESSIONTITLE [(XtraTrack Season 2025)](/2025/XtraTracksOverview)
 
-[Overview](/2025/XtraTrackOverview)
+[Overview](/2025/XtraTracksOverview)
 
 <p style="font-size:11px">(DATE AND TIME: 30.12.2035)</p>
 

@@ -1,19 +1,16 @@
 ### XtraTrack Season 2025 - Telemedicine
 
-<p style="font-size:11px">INTRODUCTION TEXT</p>
-
 ## Overview of the Lecture Series
 
 <!-- Register now to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lvGOJtw-H5c?si=9e_eYJ6gFgpk2tVz&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
-
-The XtraTracks lecture series will provide an overview over current telemedical, eHealth and / or AI activities with a special focus on Germany and Canada. All lecturers are international experts in their various fields of research. There will also be enough time for discussion with the lecturers and other participants. We encourage everyone with an interest in this topics to register and participate in this lecture series. If you have a medical and / or IT-background, you are very welcome regardless if you are a professional or a student! We also applied for CME-certification (2 points for each lecture) at our physicians association (Ärztekammer Westfalen-Lippe).
-
-Detailed information about the speakers can be accessed by clicking on the respective lecture titles.
-
 <p style="font-size:13px"><a href="https://www.eventbrite.com/cc/xtratracks25-telemedicine-4261993">Register for this XtraTrack Season</a></p>
+
+<p style="font-size:11px">The XtraTracks lecture series will provide an overview over current telemedical, eHealth and / or AI activities with a special focus on Germany and Canada. All lecturers are international experts in their various fields of research. There will also be enough time for discussion with the lecturers and other participants. We encourage everyone with an interest in this topics to register and participate in this lecture series. If you have a medical and / or IT-background, you are very welcome regardless if you are a professional or a student! We also applied for CME-certification (2 points for each lecture) at our physicians association (Ärztekammer Westfalen-Lippe).
+
+Detailed information about the speakers can be accessed by clicking on the respective lecture titles.</p>
 
 ---
 
