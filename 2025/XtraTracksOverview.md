@@ -8,7 +8,9 @@
 
 <p style="font-size:13px"><a href="https://www.eventbrite.com/cc/xtratracks25-telemedicine-4261993">Register for this XtraTrack Season</a></p>
 
-<p style="font-size:11px">The XtraTracks lecture series will provide an overview over current telemedical, eHealth and / or AI activities with a special focus on Germany and Canada. All lecturers are international experts in their various fields of research. There will also be enough time for discussion with the lecturers and other participants. We encourage everyone with an interest in this topics to register and participate in this lecture series. If you have a medical and / or IT-background, you are very welcome regardless if you are a professional or a student! We also applied for CME-certification (2 points for each lecture) at our physicians association (Ärztekammer Westfalen-Lippe).
+<p style="font-size:11px">The XtraTracks lecture series will provide an overview over current telemedical, eHealth and / or AI activities with a special focus on Germany and Canada. All lecturers are international experts in their various fields of research. There will also be enough time for discussion with the lecturers and other participants. We encourage everyone with an interest in this topics to register and participate in this lecture series. If you have a medical and / or IT-background, you are very welcome regardless if you are a professional or a student! 
+
+Per session, 2 points for CME-certification (Fortbildungspunkte) are granted by the physicians association (Ärztekammer) Westfalen-Lippe, if you attend the full session life (online) and register in advance via the corresponding ticket-Mode.
 
 Detailed information about the speakers can be accessed by clicking on the respective lecture titles.</p>
 
