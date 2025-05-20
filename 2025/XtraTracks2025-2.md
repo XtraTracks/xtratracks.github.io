@@ -2,7 +2,7 @@
 
 [Overview](/2025/XtraTracksOverview)
 
-<p style="font-size:11px">(14-05-2025 16:00)</p>
+<p style="font-size:11px">14-05-2025 16:00</p>
 
 <p style="font-size:11px">Emergency Department (ED) overcrowding is a global phenomenon, resulting in admitted patients in the ED, and new patients waiting in the ED waiting rooms to be seen. Meanwhile, a significant portion of these patients in the waiting room could potentially be managed away from ED. How can telehealth and digital health assist in decongesting ED and support patients at their times of urgent needs? In Germany, 116 117 is designed to tackle this issue. This presentation will discuss about the Canadian approach through the lens of the province of British Columbia and its 8-1-1 virtual service. This pan-provincial digital front door aspires to improve patient experiences, reduce ED input volume, and improve patient safety through their health system journeys for optimizing patients and health system’s outcome. We will discuss the evidence to date on this 8-1-1 virtual care service, and how it integrates with the health system as a whole to alleviate the ED crisis in BC, and this line’s future directions. We will then explore opportunities of synergy between Germany and Canada in our respective contexts.</p>
 
