@@ -6,8 +6,8 @@
 
 <p style="font-size:11px">AI is driving a paradigm shift in medicine, enabling thus-far unseen data analysis capabilities and improved patient care. Here, we will provide recent examples from AI across various medical fields and discuss a high-level framework for translation into better patient care.</p>
 
-<!-- Once the Video is recorded -->
-<!--<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/kj1rjbpFQL4?si=WGxBJCuQPZvbVlOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>-->
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/HWS9eLSxi8A?si=jcEoBFUdOQt8Bafi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 <!-- [Register now](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
