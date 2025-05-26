@@ -14,6 +14,8 @@ Per session, 2 points for CME-certification (Fortbildungspunkte) are granted by 
 
 Detailed information about the speakers can be accessed by clicking on the respective lecture titles.</p>
 
+Attention: The Speaker of the XtraTrack for the 04-06-2025 was shifted to the initial presentation of Christian Juhra.
+
 ---
 
 |Date   |Title   |Speaker   |Register / Talk   |
@@ -22,7 +24,8 @@ Detailed information about the speakers can be accessed by clicking on the respe
 | 14-05-2025 16:00  | [Provincial Virtual Care for Addressing Patient Emergencies at Their Finger Tips: the BC 811 Experience](XtraTracks2025-2.md)  |  [Kendall Ho](XtraTracks2025-2.md) | [Register](https://www.eventbrite.com/e/xtratracks-252-provincial-virtual-care-for-addressing-patient-emergencies-tickets-1335483179139)  |
 | 21-05-2025 16:00  | [AI in Medicine - Progress, Perils, and Perspectives](XtraTracks2025-3.md)  | [Tim Hahn](XtraTracks2025-3.md)  | [Register](https://www.eventbrite.com/e/xtratracks-253-ai-in-medicine-progress-perils-and-perspectives-tickets-1335484743819)  |
 | 28-05-2025 16:00 | [AI in Bioinformatics: Fighting the global threat of antimicrobial resistance](XtraTracks2025-4.md) | [Dominik Heider](XtraTracks2025-4.md)  | [Register](https://www.eventbrite.de/e/xtratracks-254-ai-in-bioinformatics-fighting-the-global-threat-tickets-1335485766879) |
-| 04-06-2025 16:00  | [MyHealth@EU – European eHealth Infrastructure](XtraTracks2025-5.md)  | [Amin Farid Aly / Rudolf Reibel / Alexander Jaekel](XtraTracks2025-5.md)  | [Register](https://www.eventbrite.de/e/xtratracks-255-myhealtheu-european-ehealth-infrastructure-tickets-1335487401769) |
+| 04-06-2025 16:00 | [Introduction / Training and Education in Digital Medicine](XtraTracks2025-1.md)  | [Christian Juhra](XtraTracks2025-1.md)  | [Register](https://www.eventbrite.de/e/xtratracks-255-myhealtheu-european-ehealth-infrastructure-tickets-1335487401769) |
+<!--| 04-06-2025 16:00  | [MyHealth@EU – European eHealth Infrastructure](XtraTracks2025-5.md)  | [Amin Farid Aly / Rudolf Reibel / Alexander Jaekel](XtraTracks2025-5.md)  | [Register](https://www.eventbrite.de/e/xtratracks-255-myhealtheu-european-ehealth-infrastructure-tickets-1335487401769) |-->
 | 11-06-2025 16:00  |  [The Importance of Usablility in Clinical Applications](XtraTracks2025-6.md) | [Andre Kushniruk](XtraTracks2025-6.md)  | [Register](https://www.eventbrite.de/e/xtratracks-256-the-importance-of-usablility-in-clinical-applications-tickets-1335489648489)|
 | 18-06-2025 16:00  | [AI Safety](XtraTracks2025-7.md)  | [Elizabeth Boryck](XtraTracks2025-7.md)  | [Register](https://www.eventbrite.de/e/xtratracks-257-ai-safety-tickets-1335490099839)  |
 | 25-06-2025 16:00  |  [University Hospital Telemedicine Network (NUM-UTN)](XtraTracks2025-8.md) | [Sylvia Thun](XtraTracks2025-8.md)  | [Register](https://www.eventbrite.de/e/xtratracks-258-university-hospital-telemedicine-network-num-utn-tickets-1335491453889)  |

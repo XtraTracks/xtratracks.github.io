@@ -2,7 +2,7 @@
 
 [Overview](XtraTracksOverview)
 
-<p style="font-size:11px">(07-05-2025 16:00)</p>
+<p style="font-size:11px">(04-06-2025 16:00)</p>
 
 <p style="font-size:11px">After giving an overview over the upcoming lecture series, this talk will give a short introduction into the field of telemedicine and eHealth. While telemedicine and other eHealth applications are becoming an increasingly important part of modern medicine, the training and education in digital medicine is still at its very beginning. The talk will give an overview over the different training opportunities in digital medicine at the University Hospital Münster and other initiatives.</p>
 
