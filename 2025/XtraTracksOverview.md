@@ -12,21 +12,18 @@
 
 <p style="font-size:11px">The XtraTracks lecture series will provide an overview over current telemedical, eHealth and / or AI activities with a special focus on Germany and Canada. All lecturers are international experts in their various fields of research. There will also be enough time for discussion with the lecturers and other participants. We encourage everyone with an interest in this topics to register and participate in this lecture series. If you have a medical and / or IT-background, you are very welcome regardless if you are a professional or a student! 
 
-Per session, 2 points for CME-certification (Fortbildungspunkte) are granted by the physicians association (Ärztekammer) Westfalen-Lippe, if you attend the full session life (online) and register in advance via the corresponding ticket-Mode.
+Per session, 2 points for CME-certification (Fortbildungspunkte) are granted by the physicians association (Ärztekammer) Westfalen-Lippe, if you attend the full session life (online), register in advance via the corresponding ticket-Mode, giving your CME Number, eMail-Address and Full Name.
 
 Detailed information about the speakers can be accessed by clicking on the respective lecture titles.</p>
-
-Attention: The Speaker of the XtraTrack for the 04-06-2025 was shifted to the initial presentation of Christian Juhra.
 
 ---
 
 |Date   |Title   |Speaker   |Register / Talk   |
 |---|---|---|---|
-| 07-05-2025 16:00 | [Introduction / Training and Education in Digital Medicine](XtraTracks2025-1.md)  | [Christian Juhra](XtraTracks2025-1.md)  | [-](XtraTracks2025-1.md)  |
+| 07-05-2025 16:00 | [Introduction / Training and Education in Digital Medicine](XtraTracks2025-1.md)  | [Christian Juhra](XtraTracks2025-1.md)  | [Recording](XtraTracks2025-1.md)  |
 | 14-05-2025 16:00  | [Provincial Virtual Care for Addressing Patient Emergencies at Their Finger Tips: the BC 811 Experience](XtraTracks2025-2.md)  |  [Kendall Ho](XtraTracks2025-2.md) | [Recording](XtraTracks2025-2.md)  |
 | 21-05-2025 16:00  | [AI in Medicine - Progress, Perils, and Perspectives](XtraTracks2025-3.md)  | [Tim Hahn](XtraTracks2025-3.md)  | [Recording](XtraTracks2025-3.md)  |
 | 28-05-2025 16:00 | [AI in Bioinformatics: Fighting the global threat of antimicrobial resistance](XtraTracks2025-4.md) | [Dominik Heider](XtraTracks2025-4.md)  | [Recording](XtraTracks2025-4.md) |
-| 04-06-2025 16:00 | [Introduction / Training and Education in Digital Medicine](XtraTracks2025-1.md)  | [Christian Juhra](XtraTracks2025-1.md)  | [Register](https://www.eventbrite.de/e/xtratracks-255-myhealtheu-european-ehealth-infrastructure-tickets-1335487401769) |
 | 11-06-2025 16:00  |  [The Importance of Usablility in Clinical Applications](XtraTracks2025-6.md) | [Andre Kushniruk](XtraTracks2025-6.md)  | [Register](https://www.eventbrite.de/e/xtratracks-256-the-importance-of-usablility-in-clinical-applications-tickets-1335489648489)|
 | 18-06-2025 16:00  | [AI Safety](XtraTracks2025-7.md)  | [Elizabeth Boryck](XtraTracks2025-7.md)  | [Register](https://www.eventbrite.de/e/xtratracks-257-ai-safety-tickets-1335490099839)  |
 | 25-06-2025 16:00  |  [University Hospital Telemedicine Network (NUM-UTN)](XtraTracks2025-8.md) | [Sylvia Thun](XtraTracks2025-8.md)  | [Register](https://www.eventbrite.de/e/xtratracks-258-university-hospital-telemedicine-network-num-utn-tickets-1335491453889)  |
