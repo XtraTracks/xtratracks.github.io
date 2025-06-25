@@ -2,12 +2,12 @@
 
 [Overview](/2025/XtraTracksOverview)
 
-<p style="font-size:11px">(18-06-2025 16:00)</p>
+<p style="font-size:11px">18-06-2025</p>
 
 <p style="font-size:11px">Artificial intelligence (AI) is transforming healthcare by streamlining processes and enabling personalized precision healthcare. However, safety concerns must be addressed to achieve these benefits. This article explores the link between AI and safety, highlighting technology-induced errors from data, design, and inadequate testing. It emphasizes the need for rigorous testing and evaluation of AI applications to ensure safe adoption in healthcare. Recommendations include comprehensive testing from laboratory to real-world settings to support a modern digital health system.</p>
 
 <!-- Once the Video is recorded -->
-<!--<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/kj1rjbpFQL4?si=WGxBJCuQPZvbVlOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>-->
+<center> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/K_mVfoWv82o?si=Vdcfx-WGyIEKGsnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 <!-- [Register now](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 

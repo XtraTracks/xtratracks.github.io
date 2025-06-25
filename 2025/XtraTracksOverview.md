@@ -25,7 +25,7 @@ Detailed information about the speakers can be accessed by clicking on the respe
 | 21-05-2025 16:00  | [AI in Medicine - Progress, Perils, and Perspectives](XtraTracks2025-3.md)  | [Tim Hahn](XtraTracks2025-3.md)  | [Recording](XtraTracks2025-3.md)  |
 | 28-05-2025 16:00 | [AI in Bioinformatics: Fighting the global threat of antimicrobial resistance](XtraTracks2025-4.md) | [Dominik Heider](XtraTracks2025-4.md)  | [Recording](XtraTracks2025-4.md) |
 | 11-06-2025 16:00  |  [The Importance of Usablility in Clinical Applications](XtraTracks2025-6.md) | [Andre Kushniruk](XtraTracks2025-6.md)  | [Recording](XtraTracks2025-6.md) |
-| 18-06-2025 16:00  | [AI Safety](XtraTracks2025-7.md)  | [Elizabeth Boryck](XtraTracks2025-7.md)  | [Register](https://www.eventbrite.de/e/xtratracks-257-ai-safety-tickets-1335490099839)  |
+| 18-06-2025 16:00  | [AI Safety](XtraTracks2025-7.md)  | [Elizabeth Borycki](XtraTracks2025-7.md)  | [Register](https://www.eventbrite.de/e/xtratracks-257-ai-safety-tickets-1335490099839)  |
 | 25-06-2025 16:00  |  [University Hospital Telemedicine Network (NUM-UTN)](XtraTracks2025-8.md) | [Sylvia Thun](XtraTracks2025-8.md)  | [Register](https://www.eventbrite.de/e/xtratracks-258-university-hospital-telemedicine-network-num-utn-tickets-1335491453889)  |
 | 02-07-2025 16:00  |  [Digital Health Applications](XtraTracks2025-9.md) | [Sven Meister / Leonard Fehring](XtraTracks2025-9.md)  | [Register](https://www.eventbrite.de/e/xtratracks-259-digital-health-applications-tickets-1335491865119)  |
 | 09-07-2025 16:00  |  [Hospital at Home Models](XtraTracks2025-10.md)| [Ariel Stern](XtraTracks2025-10.md)  | [Register](https://www.eventbrite.de/e/xtratracks-2510-the-economic-chances-and-challenges-of-digital-medicine-tickets-1335492176049)  |
