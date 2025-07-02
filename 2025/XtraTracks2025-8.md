@@ -2,14 +2,12 @@
 
 [Overview](/2025/XtraTracksOverview)
 
-<p style="font-size:11px">(25-06-2025 16:00)</p>
+<p style="font-size:11px">25-06-2025</p>
 
-<p style="font-size:11px">The Network University Medicine (NUM) has established the NUM University Medicine Transfer Office (UTN) to strengthen pandemic response efforts. The UTN aims to systematically transfer innovative research results and digital solutions from NUM projects across German university hospitals and beyond. It coordinates knowledge transfer processes, supports the implementation of research findings into clinical practice, and develops sustainable infrastructures to enable the broad application of scientific outcomes. Through these efforts, the UTN plays a key role in fostering a learning healthcare system and enhancing preparedness for future health crises.
-
-</p>
+<p style="font-size:11px">The Network University Medicine (NUM) has established the NUM University Medicine Transfer Office (UTN) to strengthen pandemic response efforts. The UTN aims to systematically transfer innovative research results and digital solutions from NUM projects across German university hospitals and beyond. It coordinates knowledge transfer processes, supports the implementation of research findings into clinical practice, and develops sustainable infrastructures to enable the broad application of scientific outcomes. Through these efforts, the UTN plays a key role in fostering a learning healthcare system and enhancing preparedness for future health crises. </p>
 
 <!-- Once the Video is recorded -->
-<!--<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/kj1rjbpFQL4?si=WGxBJCuQPZvbVlOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>-->
+<center> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Xgwd3YAPB4w?si=Nl9xh9W5ewjBXT-v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 <!-- [Register now](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
