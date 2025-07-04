@@ -11,7 +11,7 @@
 
 
 <!-- Once the Video is recorded -->
-<!--<center> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/26MwWOHp1K4?si=jLnIndvXUnyKgpHp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>-->
+<center> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/26MwWOHp1K4?si=jLnIndvXUnyKgpHp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 <!-- [Register now](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
@@ -27,6 +27,8 @@
 
 
 ## Priv. Doz. Dr. Leonard Fehring - University of Witten/Herdecke, Chair of Healthcare Informatics
+
+<img src="/images/2025/Fehring.jpg?raw=true"/>
 
 * Leonard studied medicine in Bonn, Heidelberg and New York
 * After medical school he worked as project lead for the business consultancy McKinsey for a couple of years. Here he supported various health care stakeholders regarding their digital strategies.
