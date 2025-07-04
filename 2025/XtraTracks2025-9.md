@@ -34,10 +34,7 @@
 * After medical school he worked as project lead for the business consultancy McKinsey for a couple of years. Here he supported various health care stakeholders regarding their digital strategies.
 * In the last years Leonard investigated the impact of DiGA in Germany on the German Healthcare System at the Witten/Herdecke University
 * Simultaneously he works at Helios University Hospital in Wuppertal as a Doctor in Internal Medicine
-<!-- second speaker-->
-<!--<img src="/images/??/USER.jpg?raw=true"/>
 
-<p style="font-size:11px">CV</p>-->
 
 ---
 <center><p style="font-size:11px">Organized by <a href="http://mocomed.de">GMDS AG MoCoMed</a> / <a href="/imprint">Impressum / Privacy</a></p></center>
