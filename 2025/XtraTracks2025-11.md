@@ -10,6 +10,11 @@ Der Vortrag beleuchtet, wie eine konsequent digital ausgerichtete Hausarztpraxis
 Die vorgestellten Lösungen ermöglichen eine deutliche Reduktion von Wartezeiten, eine bessere Erreichbarkeit sowie eine effizientere Zusammenarbeit innerhalb interdisziplinärer Netzwerke. Dabei werden nicht nur technologische Potenziale aufgezeigt, sondern auch der Faktor Mensch konsequent mitgedacht – sei es durch individuelle Begleitung, digitale Schulungsangebote oder flexible Arbeitsmodelle im Team.
 Das DFGZ steht damit exemplarisch für ein modernes Versorgungsmodell, das Digitalisierung nicht als Selbstzweck versteht, sondern als konkreten Beitrag zur nachhaltigen Stärkung der ambulanten Versorgung.
 </p>
+
+<a href="https://spieren.de/dfgz">DFGZ Spieren</a>
+<a href="https://www.kvno.de/praxis4future"> Praxis4Future</a>
+<a href="http://kvwl.de/dipraxis"> Dipraxis</a>
+
 <!-- Once the Video is recorded -->
 <!--<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/kj1rjbpFQL4?si=WGxBJCuQPZvbVlOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>-->
 

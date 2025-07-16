@@ -4,7 +4,7 @@
 
 <!-- Register now to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 <!-- | 04-06-2025 16:00  | [MyHealth@EU – European eHealth Infrastructure](XtraTracks2025-5.md)  | [Amin Farid Aly / Rudolf Reibel / Alexander Jaekel](XtraTracks2025-5.md)  | [Register](https://www.eventbrite.de/e/xtratracks-255-myhealtheu-european-ehealth-infrastructure-tickets-1335487401769) | -->
-
+<!-- | ??-??-2025 |  [Hospital at Home Models](XtraTracks2025-10.md)| [Ariel Stern](XtraTracks2025-10.md)  | [Delayed]()  | -->
 
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lvGOJtw-H5c?si=L5XU2SaWdoGHIcR0&amp;controls=0&amp;start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
@@ -30,7 +30,7 @@ Detailed information about the speakers can be accessed by clicking on the respe
 | 02-07-2025 16:00  |  [Digital Health Applications](XtraTracks2025-9.md) | [Sven Meister / Leonard Fehring](XtraTracks2025-9.md)  | [Recording](XtraTracks2025-9.md)  |
 | 16-07-2025 16:00  | [Die digitale Hausarztpraxis (Lecture in German)](XtraTracks2025-11.md)  | [Stefan Spieren / Sven Meister](XtraTracks2025-11.md) | [Register](https://www.eventbrite.de/e/xtratracks-2511-die-digitale-hausarztpraxis-lecture-in-german-tickets-1335492868119)  |
 | 23-07-2025 16:00 | [Die virtuelle Kinder-Sprechstunde in NRW (Lecture in German)](XtraTracks2025-12.md)  | [Bernhard Acke](XtraTracks2025-12.md) | [Register](https://www.eventbrite.de/e/xtratracks-2512-die-virtuelle-kinder-sprechstunde-in-nrw-in-german-tickets-1335493429799)  |
-<!--| ??-??-2025 |  [Hospital at Home Models](XtraTracks2025-10.md)| [Ariel Stern](XtraTracks2025-10.md)  | [Delayed]()  |-->
+
 
 ## Trainingpoint-FAQ:
 * Be the first.
