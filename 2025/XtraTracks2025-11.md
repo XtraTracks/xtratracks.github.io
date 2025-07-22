@@ -2,7 +2,7 @@
 
 [Overview](/2025/XtraTracksOverview)
 
-<p style="font-size:11px">16.07.2025 16:00</p>
+<p style="font-size:11px">16.07.2025</p>
 
 <p style="font-size:11px">
 Der Vortrag beleuchtet, wie eine konsequent digital ausgerichtete Hausarztpraxis in der Praxis funktioniert – am Beispiel des Digitalen Facharzt- und Gesundheitszentrums (DFGZ). In einer Zeit wachsender Versorgungsengpässe, zunehmender Bürokratie und hoher Belastung für medizinisches Personal bietet das DFGZ ein zukunftsweisendes Modell: Digitale Patientensteuerung durch Avatare, personalisierte Assistenten, automatisierte Prozesse sowie Videosprechstunden und hybride Versorgungseinheiten schaffen neue Freiräume für das Wesentliche – die medizinische Betreuung.
@@ -11,12 +11,13 @@ Die vorgestellten Lösungen ermöglichen eine deutliche Reduktion von Wartezeite
 Das DFGZ steht damit exemplarisch für ein modernes Versorgungsmodell, das Digitalisierung nicht als Selbstzweck versteht, sondern als konkreten Beitrag zur nachhaltigen Stärkung der ambulanten Versorgung.
 </p>
 
-<a href="https://spieren.de/dfgz">DFGZ Spieren</a>
-<a href="https://www.kvno.de/praxis4future"> Praxis4Future</a>
-<a href="http://kvwl.de/dipraxis"> Dipraxis</a>
+<p><a href="https://spieren.de/dfgz">DFGZ Spieren</a></p>
+<p><a href="https://medxsmart.de/">medxsmart.de</a></p>
+<p><a href="https://www.kvno.de/praxis4future"> Praxis4Future</a></p>
+<p><a href="http://kvwl.de/dipraxis"> Dipraxis</a></p>
 
 <!-- Once the Video is recorded -->
-<!--<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/kj1rjbpFQL4?si=WGxBJCuQPZvbVlOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>-->
+<center> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CpMEdvpXdRo?si=wa_GhE0NpKPFvoZf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </center>
 
 <!-- [Register now](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
