@@ -17,7 +17,7 @@
 * <a href="https://onlineacademiccommunity.uvic.ca/laboratoryfordigitalinnovationinhealth/"> School of Health Information Science, University of Victoria, Canada </a>
 * Global Laboratory for Digital Health Innovation, Canada
 
-<img src="/images/2025/Borycki.jpg?raw=true"/>
+<img src="/images/2025/Borycki.jpg?raw=true"  height="200" />
 
 <p style="font-size:11px">Dr. Elizabeth Borycki is a distinguished Professor in the School of Health Information Science at the University of Victoria, British Columbia, Canada. She also serves as the Director of the Global Laboratory for Digital Health Innovation and is a Michael Smith Health Research BC Health Professional Investigator.  Dr. Borycki's research focuses on health technology safety, human factors, virtual care, and systems design. She has published over 250 articles, 40 book chapters, and 10 edited books.  She has held several prominent positions, including Vice President representing North America on the Board of Directors for the International Medical Informatics Association (IMIA) and Vice President - Special Projects for IMIA.  Dr. Borycki has been recognized as one of the Top 10 Women in Digital Health by Digital Health Canada and one of the Top 100 Health Informatics Researchers by IMIA.</p>
 

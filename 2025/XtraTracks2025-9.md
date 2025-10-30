@@ -19,7 +19,7 @@
 
 ## Prof. Dr. Sven Meister - University of Witten/Herdecke, Chair of Healthcare Informatics
 
-<img src="/images/2025/sven-meister.jpg?raw=true"/>
+<img src="/images/2025/sven-meister.jpg?raw=true"  height="200" />
 
 * Sven studied medical computer science
 * He is holding the Chair of Health Informatics at the medical faculty of Witten/Herdecke University
@@ -28,7 +28,7 @@
 
 ## Priv. Doz. Dr. Leonard Fehring - University of Witten/Herdecke, Chair of Healthcare Informatics
 
-<img src="/images/2025/Fehring.jpg?raw=true"/>
+<img src="/images/2025/Fehring.jpg?raw=true"  height="200" />
 
 * Leonard studied medicine in Bonn, Heidelberg and New York
 * After medical school he worked as project lead for the business consultancy McKinsey for a couple of years. Here he supported various health care stakeholders regarding their digital strategies.

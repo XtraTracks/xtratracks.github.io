@@ -15,7 +15,7 @@
 
 ## Prof. Dr. rer. nat. Tim Hahn - Institute for Translationale Psychiatry, University of Münster
 
-<img src="/images/2025/TimHahn.png?raw=true"/>
+<img src="/images/2025/TimHahn.png?raw=true"  height="200" />
 
 
 

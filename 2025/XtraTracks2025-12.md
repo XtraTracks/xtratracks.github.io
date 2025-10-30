@@ -16,7 +16,7 @@
 ## Dipl. Inform. Med. Bernhard Acke, Stellv. Leiter Stabsstelle eHealth
 [North Rhine Association of Statutory Health Insurance Physicians (Kassenärztliche Vereinigung Nordrhein)](https://www.kvno.de)
  
-<img src="/images/2025/Acke.jpg?raw=true"/>
+<img src="/images/2025/Acke.jpg?raw=true" height="200" />
 
 <p style="font-size:11px">Bernhard Acke is an medical informatics professional with a degree in Medical Computer Science from the University of Heidelberg. He serves as the Deputy Head of the eHealth task force at the North Rhine Association of Statutory Health Insurance Physicians, where he has overseen the planning and implementation of all telemedicine activities in recent years. This includes also the introduction of the telematics infrastructure in regional medical practices.
 The Association of Statutory Health Insurance Physicians North Rhine with its 24,000 members, ensures outpatient medical and psychotherapeutic care for approximately 9.5 million residents in the North Rhine Region. Its responsibilities include safeguarding the quality of medical services, distributing remuneration among contract physicians, psychological psychotherapists, child and adolescent psychotherapists, as well as hospital doctors authorized to provide outpatient care, representing their interests in negotiations with health insurance funds, and organizing the medical on-call Service.</p>

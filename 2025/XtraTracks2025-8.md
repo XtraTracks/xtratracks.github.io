@@ -15,7 +15,7 @@
 
 ## Prof. Sylvia Thun, BIH@Charite
 [Details](https://www.bihealth.org/en/research/research-groups/ehealth-and-interoperability/home)
-<img src="/images/2025/Foto_Thun.jpg?raw=true"/> 
+<img src="/images/2025/Foto_Thun.jpg?raw=true"  height="200" />
 
 <p style="font-size:11px">Prof. Dr. Sylvia Thun is a physician and biomedical engineer specializing in medical informatics. She studied Physical and Biomedical Engineering at the University of Applied Sciences Aachen (Jülich) and Medicine at RWTH Aachen University. In 2001, she earned her medical doctorate (Dr. med.) in radiological imaging. Additionally, she holds the medical informatics certification from the German Society for Medical Informatics, Biometry and Epidemiology (GMDS) and the supplementary qualification in medical informatics from the North Rhine Medical Association. 
 Currently, Prof. Thun serves as the Director of the Core Unit eHealth and Interoperability at the Berlin Institute of Health at Charité (BIH) and holds a lifetime W3 Professorship in Digital Medicine and Interoperability. She is recognized for her expertise in healthcare IT standards and her contributions to digital health initiatives. 

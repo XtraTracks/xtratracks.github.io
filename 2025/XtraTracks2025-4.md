@@ -15,7 +15,7 @@
 
 ## Prof. Dr. Dominik Heider
 [University of Münster, Institute of Medical Informatics](https://imi.uni-muenster.de)
-<img src="/images/2025/Foto_Heider.jpg?raw=true"/>
+<img src="/images/2025/Foto_Heider.jpg?raw=true"  height="200" />
 
 <p style="font-size:11px">Dominik Heider is the director of the Institute of Medical Informatics at the University of Münster since September 2024 and a visiting professor at the T.H. Chan School of Public Health, Harvard University since 2023. Before he held full professorships at the University of Düsseldorf and the University of Marburg, was associate professor at the TUM Campus Straubing, and Associate Director at Qiagen. He studied Computer Science and did his PhD in 2008 at the University of Münster.</p>
 

@@ -17,7 +17,7 @@
 <a href="https://www.uvic.ca/health/hinf/faculty-staff/faculty/kushniruk-andre.php">School of Health Information Science, University of Victoria, Victoria, Canada</a>
 
 
-<img src="/images/2025/kushniruk.jpg?raw=true"/>
+<img src="/images/2025/kushniruk.jpg?raw=true"  height="200" />
 
 
 <p style="font-size:11px">Andre Kushniruk, Ph.D., FACMI, is the Director and Professor in the School of Health Information Science at the University of Victoria. He holds undergraduate degrees in Psychology and Biology, a M.Sc. in Computer Science from McMaster University, and a Ph.D. in Cognitive Psychology from McGill University. An elected member of the International Academy of Health Sciences Informatics, the Canadian Academy of Health Sciences, he is a Fellow of the American College of Medical Informatics. He conducts research in several areas, including evaluation of the effects of technology, human-computer interaction in health care, and usability engineering. Besides his research with the publication of over 300 scholarly peer-reviewed articles and author of several books, Dr. Kushniruk has mentored numerous students and is actively involved with teaching, bridging academia to industry.</p>

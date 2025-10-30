@@ -14,7 +14,7 @@
 <!-- [Join Us Life](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
 ## Speaker
-<img src="/images/??/USER.jpg?raw=true"/>
+<img src="/images/??/USER.jpg?raw=true"  height="200" />
 
 <p style="font-size:11px">CV</p>
 

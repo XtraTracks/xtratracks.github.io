@@ -37,7 +37,7 @@ Stefan Spieren ist nicht nur Arzt, sondern ein Visionär und Wegbereiter für di
 
 ## Prof. Dr. Sven Meister - University of Witten/Herdecke, Chair of Healthcare Informatics
 
-<img src="/images/2025/sven-meister.jpg?raw=true"/>
+<img src="/images/2025/sven-meister.jpg?raw=true"  height="200" />
 
 <p style="font-size:11px">
 * Sven studied medical computer science

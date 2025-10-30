@@ -17,7 +17,7 @@
 * Medical Director, British Columbia Ministry of Health 
 * 811 Virtual Physicians Services
 
-<img src="/images/2025/Kendall_Ho.jpg?raw=true"/>
+<img src="/images/2025/Kendall_Ho.jpg?raw=true"  height="200" />
 
 <p style="font-size:11px">Dr. Kendall Ho is an emergency medicine specialist, Professor at the University of British Columbia (UBC) Faculty of Medicine, and Lead the Digital Emergency Medicine Unit. He is the medical director of the BC Ministry of Health HealthLink BC virtual physician program, and clinical evaluation lead of the BC Real Time Virtual Support provincial virtual care services. His Digital Emergency Medicine research and knowledge translation work focus on virtual care, wearables and sensors, machine learning and artificial intelligence in urgent and emergency care, and multicultural engagement in digital health literacy. His body of research and educational work has been recognized with multiple awards, and received the BC Medal of Good Citizenship for his community work. He is a fellow of the Royal College of Physicians and Surgeons of Canada, and the Canadian Academy of Health Sciences.</p>
 
