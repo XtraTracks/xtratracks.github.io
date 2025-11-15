@@ -6,9 +6,9 @@
 <!-- | 04-06-2025 16:00  | [MyHealth@EU – European eHealth Infrastructure](XtraTracks2025-5.md)  | [Amin Farid Aly / Rudolf Reibel / Alexander Jaekel](XtraTracks2025-5.md)  | [Register](https://www.eventbrite.de/e/xtratracks-255-myhealtheu-european-ehealth-infrastructure-tickets-1335487401769) | -->
 <!-- | ??-??-2025 |  [Hospital at Home Models](XtraTracks2025-10.md)| [Ariel Stern](XtraTracks2025-10.md)  | [Delayed]()  | -->
 
-<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lvGOJtw-H5c?si=L5XU2SaWdoGHIcR0&amp;controls=0&amp;start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+<!-- <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lvGOJtw-H5c?si=L5XU2SaWdoGHIcR0&amp;controls=0&amp;start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
-<p style="font-size:13px"><a href="https://www.eventbrite.com/cc/xtratracks25-telemedicine-4261993">Register for this XtraTrack Season</a></p>
+<p style="font-size:13px"><a href="https://www.eventbrite.com/cc/xtratracks25-telemedicine-4261993">Register for this XtraTrack Season</a></p> -->
 
 <p style="font-size:11px">The XtraTracks lecture series will provide an overview over current clinical decision support activities with a special focus on Germany, Netherlands and Canada. All lecturers are international experts in their various fields of research. There will also be enough time for discussion with the lecturers and other participants. We encourage everyone with an interest in this topics to register and participate in this lecture series. If you have a medical and / or IT-background, you are very welcome regardless if you are a professional or a student! 
 
