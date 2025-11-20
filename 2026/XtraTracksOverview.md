@@ -8,12 +8,9 @@
 
 <!-- <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lvGOJtw-H5c?si=L5XU2SaWdoGHIcR0&amp;controls=0&amp;start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>-->
 
-<center><img src="images/xtratrackslogo2026.png?raw=true"/></center>
+<center><img src="../images/xtratrackslogo2026.png?raw=true"/></center>
 
 <!--<p style="font-size:13px"><a href="https://www.eventbrite.com/cc/xtratracks25-telemedicine-4261993">Register for this XtraTrack Season</a></p> -->
-
-<p style="font-size:13px"><a href="https://www.gmds.de/aktuelles-termine/dmea-satellitenveranstaltung-2026-von-gmds-und-bvmi/"> Register for the XtraTrack Opening Workshop at the GMDS DMEA-Satellitenveranstaltung in Berlin.</a></p>
-
 
 <p style="font-size:11px">The XtraTracks lecture series will provide an overview over current clinical decision support activities with a special focus on Germany, Netherlands and Canada. All lecturers are international experts in their various fields of research. There will also be enough time for discussion with the lecturers and other participants. We encourage everyone with an interest in this topics to register and participate in this lecture series. If you have a medical and / or IT-background, you are very welcome regardless if you are a professional or a student! 
 
@@ -22,6 +19,8 @@ Per session, 2 points for CME-certification (Fortbildungspunkte) are granted by 
 Detailed information about the speakers will be made available soon (and then can be accessed by clicking on the respective lecture titles.)</p>
 
 <p>This years season opening will be a Workshop at the GMDS DMEA Satelitenveranstaltung in Berlin at 20.April, 2026 <a href="https://www.gmds.de/aktuelles-termine/dmea-satellitenveranstaltung-2026-von-gmds-und-bvmi/"> Registration and further details here</a></p>
+
+
 ---
 
 |Date   |Title   |Speaker   |Register / Talk   |
