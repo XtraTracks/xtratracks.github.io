@@ -29,7 +29,7 @@ Detailed information about the speakers will be made available soon (and then ca
 
 
 ## Trainingpoint-FAQ:
-* Be the first.a
+* Be the first.
 
 <p style="font-size:11px">In case you have questions regarding the colelction of trainingpoints (Weiterbildungspunkten) of the Westpalia Lippe Physician Association. Please send an eMail to: franziska.emming [a@t]ukmuenster.de </p>
 
