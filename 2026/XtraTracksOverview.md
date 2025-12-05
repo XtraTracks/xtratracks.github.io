@@ -26,7 +26,7 @@ Detailed information about the speakers will be made available soon (and then ca
 |Date   |Title   |Speaker   |Register / Talk   |
 |---|---|---|---|
 | ??-05-2026 16:00 | [Introduction](XtraTracks2026-1.md)  | [Christian Juhra](XtraTracks2025-1.md)  | [Register soon]()  |
-| 29-04-2026 16:00 | [Introduction](XtraTracks2026-1.md)  | [Edward Shortliffe](XtraTracks2025-2.md)  | [Register soon]()  |
+| 29-04-2026 16:00 | [Introduction](XtraTracks2026-2.md)  | [Edward Shortliffe](XtraTracks2025-1.md)  | [Register soon]()  |
 | 06-05-2026 16:00 | [Introduction](XtraTracks2026-1.md)  | [Andreas Beß](XtraTracks2025-1.md)  | [Register soon]()  |
 | 13-05-2026 16:00 | [Introduction](XtraTracks2026-1.md)  | [Tiplu?](XtraTracks2025-1.md)  | [Register soon]()  |
 | 27-05-2026 16:00 | [Introduction](XtraTracks2026-1.md)  | [Julian Kunkel](XtraTracks2025-1.md)  | [Register soon]()  |
