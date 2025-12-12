@@ -25,17 +25,22 @@ Detailed information about the speakers will be made available soon (and then ca
 
 |Date   |Title   |Speaker   |Register / Talk   |
 |---|---|---|---|
-| ??-05-2026 16:00 | [Introduction](XtraTracks2026-1.md)  | [Christian Juhra](XtraTracks2025-1.md)  | [Register soon]()  |
-| 29-04-2026 16:00 | [Introduction](XtraTracks2026-2.md)  | [Edward Shortliffe](XtraTracks2025-1.md)  | [Register soon]()  |
-| 06-05-2026 16:00 | [Introduction](XtraTracks2026-3.md)  | [Andreas Beß](XtraTracks2025-1.md)  | [Register soon]()  |
-| 13-05-2026 16:00 | [Introduction](XtraTracks2026-4.md)  | [Tiplu?](XtraTracks2025-1.md)  | [Register soon]()  |
-| 27-05-2026 16:00 | [Introduction](XtraTracks2026-5.md)  | [Julian Kunkel](XtraTracks2025-1.md)  | [Register soon]()  |
-| 03-06-2026 16:00 | [Introduction](XtraTracks2026-6.md)  | [Stepahnie Medlock](XtraTracks2025-1.md)  | [Register soon]()  |
-| 10-06-2026 16:00 | [Introduction](XtraTracks2026-7.md)  | [Matthias Kaspar](XtraTracks2025-1.md)  | [Register soon]()  |
-| 17-06-2026 16:00 | [Introduction](XtraTracks2026-8.md)  | [Silvia Miksch?](XtraTracks2025-1.md)  | [Register soon]()  |
-| 17-06-2026 16:00 | [Introduction](XtraTracks2026-9.md)  | [Myriam Lipprandt?](XtraTracks2025-1.md)  | [Register soon]()  |
-| 24-06-2026 16:00 | [Introduction](XtraTracks2026-10.md)  | [Griet Verhenneman](XtraTracks2025-1.md)  | [Register soon]()  |
-| ??-??-2026 16:00 | [Introduction](XtraTracks2026-11.md)  | [Benny Platte](XtraTracks2025-1.md)  | [Register soon]()  |
+| 20-04-2026 13:00 | [Introduction](XtraTracks2026-1.md)  | [Cord Spreckelsen](XtraTracks2025-1.md)  | [Register soon]()  |
+| 20-04-2026 13:35 | [Introduction](XtraTracks2026-2.md)  | [Otto Rienhoff](XtraTracks2025-1.md)  | [Register soon]()  |
+| 20-04-2026 14:20 | [Introduction](XtraTracks2026-3.md)  | [Antje Wulff](XtraTracks2025-1.md)  | [Register soon]()  |
+| 20-04-2026 14:40 | [Introduction](XtraTracks2026-4.md)  | [Toralf Kirste](XtraTracks2025-1.md)  | [Register soon]()  |
+| 20-04-2026 15:00 | [Introduction](XtraTracks2026-5.md)  | [Anne-Christin Hauschild](XtraTracks2025-1.md)  | [Register soon]()  |
+| 20-04-2026 15:40 | [Introduction](XtraTracks2026-6.md)  | [Christian Johner](XtraTracks2025-1.md)  | [Register soon]()  |
+| 29-04-2026 16:00 | [Introduction](XtraTracks2026-7.md)  | [Edward Shortliffe](XtraTracks2025-1.md)  | [Register soon]()  |
+| 06-05-2026 16:00 | [Introduction](XtraTracks2026-8.md)  | [Andreas Beß](XtraTracks2025-1.md)  | [Register soon]()  |
+| 13-05-2026 16:00 | [Introduction](XtraTracks2026-9.md)  | [Tiplu?](XtraTracks2025-1.md)  | [Register soon]()  |
+| 27-05-2026 16:00 | [Introduction](XtraTracks2026-10.md)  | [Julian Kunkel](XtraTracks2025-1.md)  | [Register soon]()  |
+| 03-06-2026 16:00 | [Introduction](XtraTracks2026-11.md)  | [Stepahnie Medlock](XtraTracks2025-1.md)  | [Register soon]()  |
+| 10-06-2026 16:00 | [Introduction](XtraTracks2026-12.md)  | [Matthias Kaspar](XtraTracks2025-1.md)  | [Register soon]()  |
+| 17-06-2026 16:00 | [Introduction](XtraTracks2026-13.md)  | [Silvia Miksch?](XtraTracks2025-1.md)  | [Register soon]()  |
+| 24-06-2026 16:00 | [Introduction](XtraTracks2026-14.md)  | [Griet Verhenneman](XtraTracks2025-1.md)  | [Register soon]()  |
+| 01-07-2026 16:00 | [Introduction](XtraTracks2026-15.md)  | [Myriam Lipprandt](XtraTracks2025-1.md)  | [Register soon]()  |
+| ??-??-2026 16:00 | [Introduction](XtraTracks2026-16.md)  | [Benny Platte](XtraTracks2025-1.md)  | [Register soon]()  |
 
 ## Trainingpoint-FAQ:
 * Be the first.
