@@ -20,7 +20,7 @@ Detailed information about the speakers will be made available soon (and then ca
 
 <p>This years season opening will be a Workshop at the GMDS DMEA Satelitenveranstaltung in Berlin at 20.April, 2026 <a href="https://www.gmds.de/aktuelles-termine/dmea-satellitenveranstaltung-2026-von-gmds-und-bvmi/"> Registration and further details here</a></p>
 
-
+<center><p style="font-size:11px">Register for <a href="https://www.listserv.dfn.de/sympa/subscribe/xtratracks.com?previous_action=info">Updates on the XtraTracks </a></p></center>
 ---
 
 |Date   |Title   |Speaker   |Register / Talk   |

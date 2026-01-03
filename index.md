@@ -1,6 +1,8 @@
 
 ### The XtraTrack Sessions
 
+<center><p style="font-size:11px">Register for <a href="https://www.listserv.dfn.de/sympa/subscribe/xtratracks.com?previous_action=info">Updates on Upcoming XtraTracks Events </a></p></center>
+
 [XtraTracks 2026 - Clinical Decision Support Systems <img src="images/xtratrackslogo2026.png?raw=true"/>](/2026/XtraTracksOverview)
 
 ---
@@ -16,6 +18,7 @@
 
 ---
 <center><p style="font-size:11px">Organized by <a href="http://mocomed.de">GMDS AG MoCoMed</a> / <a href="imprint">Impressum / Privacy</a></p></center>
+<center><p style="font-size:11px">Join the <a href="">XtraTracks MailingList</a> <a href="https://lists.gi.de/postorius/lists/fg-mocomed.lists.gi.de/">the MoCoMed MailingList</a></p></center>
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
 
