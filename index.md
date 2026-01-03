@@ -1,7 +1,7 @@
 
 ### The XtraTrack Sessions
 
-<center><p style="font-size:11px">Register for <a href="https://www.listserv.dfn.de/sympa/subscribe/xtratracks.com?previous_action=info">Updates on Upcoming XtraTracks Events </a></p></center>
+<center><p style="font-size:11px">Register for <a href="https://www.listserv.dfn.de/sympa/subscribe/xtratracks.com?previous_action=info" target="_blank">Updates on Upcoming XtraTracks Events </a></p></center>
 
 [XtraTracks 2026 - Clinical Decision Support Systems <img src="images/xtratrackslogo2026.png?raw=true"/>](/2026/XtraTracksOverview)
 
