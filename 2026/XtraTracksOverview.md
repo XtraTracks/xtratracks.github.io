@@ -20,7 +20,7 @@ Detailed information about the speakers will be made available soon (and then ca
 <center><p style="font-size:11px"><a href="https://www.listserv.dfn.de/sympa/subscribe/xtratracks.com?previous_action=info" target="_blank">Register for general Updates on the XtraTracks </a></p></center>
 
 
-<p>This years <b> season opening is a Workshop at the GMDS DMEA Satelitenveranstaltung in Berlin at 20.April, 2026 at NH Hotel Berlin Alexanderplatz.</b> <a href="https://www.gmds.de/aktuelles-termine/dmea-satellitenveranstaltung-2026-von-gmds-und-bvmi/"> Further Details </a>
+<p>This years <b> season opening is a Workshop at the GMDS DMEA Satelitenveranstaltung in Berlin at 20.April, 2026 at NH Hotel Berlin Alexanderplatz.</b> <a href="https://www.gmds.de/aktuelles-termine/dmea-satellitenveranstaltung-2026-von-gmds-und-bvmi/"> Further Details </a><p>
 
 
 |Date   |Title   |Speaker   |Register |
@@ -35,7 +35,7 @@ Detailed information about the speakers will be made available soon (and then ca
 |---|---|---|---|
 
 
-Join us in person in Berlin and <a href="https://www.gmds.de/index.php?id=2247" target="_blank"> register here </a> (ohne Beitrag) für Den Workshop 1: „Entscheidungen neu denken, Wie Kl die Medizin unterstützt, nicht ersetzt" before the maximal capacity is reached.</p>
+<p>Join us in person in Berlin and <a href="https://www.gmds.de/index.php?id=2247" target="_blank"> register here </a> (ohne Beitrag) für Den Workshop 1: „Entscheidungen neu denken, Wie Kl die Medizin unterstützt, nicht ersetzt" before the maximal capacity is reached.</p>
 
 
 
@@ -43,15 +43,11 @@ Join us in person in Berlin and <a href="https://www.gmds.de/index.php?id=2247" 
 |---|---|---|---|
 | 29-04-2026 16:00 | [Introduction](XtraTracks2026-7.md)  | [Edward Shortliffe](XtraTracks2026-7.md)  | [Register soon]()  |
 | 06-05-2026 16:00 | [Introduction](XtraTracks2026-8.md)  | [Andreas Beß](XtraTracks2026-8.md)  | [Register soon]()  |
-<!--| 13-05-2026 16:00 | [Introduction](XtraTracks2026-9.md)  | [Tiplu?](XtraTracks2026-9.md)  | [Register soon]()  |-->
-<!--| 20-05-2026 16:00 | [??](XtraTracks2026-17.md)  | [??](XtraTracks2026-17.md)  | [Register soon]()  |-->
 | 27-05-2026 16:00 | [Introduction](XtraTracks2026-10.md)  | [Julian Kunkel](XtraTracks2026-10.md)  | [Register soon]()  |
 | 03-06-2026 16:00 | [Introduction](XtraTracks2026-11.md)  | [Stepahnie Medlock](XtraTracks2026-11.md)  | [Register soon]()  |
 | 10-06-2026 16:00 | [Introduction](XtraTracks2026-12.md)  | [Matthias Kaspar](XtraTracks2026-12.md)  | [Register soon]()  |
-<!--[//]: #| 17-06-2026 16:00 | [Introduction](XtraTracks2026-13.md)  | [Silvia Miksch?](XtraTracks2026-13.md)  | [Register soon]()  |-->
 | 24-06-2026 16:00 | [Introduction](XtraTracks2026-14.md)  | [Griet Verhenneman](XtraTracks2026-14.md)  | [Register soon]()  |
 | 01-07-2026 16:00 | [Introduction](XtraTracks2026-15.md)  | [Myriam Lipprandt](XtraTracks2026-15.md)  | [Register soon]()  |
-<!--| ??-??-2026 16:00 | [Introduction](XtraTracks2026-16.md)  | [Benny Platte](XtraTracks2026-16.md)  | [Register soon]()  |-->
 
 ## Trainingpoint-FAQ:
 * Be the first.
