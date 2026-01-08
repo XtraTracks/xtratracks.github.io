@@ -33,7 +33,7 @@ Detailed information about the speakers will be made available soon (and then ca
 | 20-04-2026 14:40 | [Introduction](XtraTracks2026-4.md)  | [Toralf Kirste](XtraTracks2026-4.md)  | [Register](https://www.gmds.de/index.php?id=2247)  |
 | 20-04-2026 15:00 | [Introduction](XtraTracks2026-5.md)  | [Anne-Christin Hauschild](XtraTracks2026-5.md)  | [Register](https://www.gmds.de/index.php?id=2247)  |
 | 20-04-2026 15:40 | [Introduction](XtraTracks2026-6.md)  | [Christian Johner](XtraTracks2026-6.md)  | [Register](https://www.gmds.de/index.php?id=2247)  |
-| 20-04-2026 18:00 -21:00 | Get To gether with all participants  |   | [Register](https://www.gmds.de/index.php?id=2247)  |
+| 20-04-2026 18:00 -21:00 | Get together with | all participants  | [Register](https://www.gmds.de/index.php?id=2247)  |
 |---|---|---|---|
 
 
