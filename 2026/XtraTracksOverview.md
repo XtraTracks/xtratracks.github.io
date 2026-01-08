@@ -16,21 +16,31 @@
 
 Per session, 2 points for CME-certification (Fortbildungspunkte) are granted by the physicians association (Ärztekammer) Westfalen-Lippe, if you attend the full session life (online), register in advance via the corresponding ticket-Mode, giving your CME Number, eMail-Address and Full Name.
 
-Detailed information about the speakers will be made available soon (and then can be accessed by clicking on the respective lecture titles.)</p>
+Detailed information about the speakers will be made available soon (and then can be accessed by clicking on the respective lecture titles.)</p> 
+<center><p style="font-size:11px"><a href="https://www.listserv.dfn.de/sympa/subscribe/xtratracks.com?previous_action=info" target="_blank">Register for general Updates on the XtraTracks </a></p></center>
 
-<p>This years season opening will be a Workshop at the GMDS DMEA Satelitenveranstaltung in Berlin at 20.April, 2026 <a href="https://www.gmds.de/aktuelles-termine/dmea-satellitenveranstaltung-2026-von-gmds-und-bvmi/"> Registration and further details here</a></p>
 
-<center><p style="font-size:11px">Register for <a href="https://www.listserv.dfn.de/sympa/subscribe/xtratracks.com?previous_action=info" target="_blank">Updates on the XtraTracks </a></p></center>
+<p>This years <b> season opening is a Workshop at the GMDS DMEA Satelitenveranstaltung in Berlin at 20.April, 2026 at NH Hotel Berlin Alexanderplatz.</b> <a href="https://www.gmds.de/aktuelles-termine/dmea-satellitenveranstaltung-2026-von-gmds-und-bvmi/"> Further Details </a>
+
 ---
+|Date   |Title   |Speaker   |Register |
+|---|---|---|---|
+| 20-04-2026 13:00 | [Introduction](XtraTracks2026-1.md)  | [Cord Spreckelsen](XtraTracks2026-1.md)  | [Register soon](https://www.gmds.de/index.php?id=2247)  |
+| 20-04-2026 13:35 | [Introduction](XtraTracks2026-2.md)  | [Otto Rienhoff](XtraTracks20256-2.md)  | [Register](https://www.gmds.de/index.php?id=2247)  |
+| 20-04-2026 14:20 | [Introduction](XtraTracks2026-3.md)  | [Antje Wulff](XtraTracks2026-3.md)  | [Register](https://www.gmds.de/index.php?id=2247)  |
+| 20-04-2026 14:40 | [Introduction](XtraTracks2026-4.md)  | [Toralf Kirste](XtraTracks2026-4.md)  | [Register](https://www.gmds.de/index.php?id=2247)  |
+| 20-04-2026 15:00 | [Introduction](XtraTracks2026-5.md)  | [Anne-Christin Hauschild](XtraTracks2026-5.md)  | [Register](https://www.gmds.de/index.php?id=2247)  |
+| 20-04-2026 15:40 | [Introduction](XtraTracks2026-6.md)  | [Christian Johner](XtraTracks2026-6.md)  | [Register](https://www.gmds.de/index.php?id=2247)  |
+| 20-04-2026 18:00 -21:00 | Get To gether with all participants  |   | [Register](https://www.gmds.de/index.php?id=2247)  |
+|---|---|---|---|
+
+
+Join us in person in Berlin and <a href="https://www.gmds.de/index.php?id=2247" target="_blank"> register here </a> (ohne Beitrag) für Den Workshop 1: „Entscheidungen neu denken, Wie Kl die Medizin unterstützt, nicht ersetzt" before the maximal capacity is reached.</p>
+
+
 
 |Date   |Title   |Speaker   |Register / Talk   |
 |---|---|---|---|
-| 20-04-2026 13:00 | [Introduction](XtraTracks2026-1.md)  | [Cord Spreckelsen](XtraTracks2025-1.md)  | [Register soon]()  |
-| 20-04-2026 13:35 | [Introduction](XtraTracks2026-2.md)  | [Otto Rienhoff](XtraTracks2025-1.md)  | [Register soon]()  |
-| 20-04-2026 14:20 | [Introduction](XtraTracks2026-3.md)  | [Antje Wulff](XtraTracks2025-1.md)  | [Register soon]()  |
-| 20-04-2026 14:40 | [Introduction](XtraTracks2026-4.md)  | [Toralf Kirste](XtraTracks2025-1.md)  | [Register soon]()  |
-| 20-04-2026 15:00 | [Introduction](XtraTracks2026-5.md)  | [Anne-Christin Hauschild](XtraTracks2025-1.md)  | [Register soon]()  |
-| 20-04-2026 15:40 | [Introduction](XtraTracks2026-6.md)  | [Christian Johner](XtraTracks2025-1.md)  | [Register soon]()  |
 | 29-04-2026 16:00 | [Introduction](XtraTracks2026-7.md)  | [Edward Shortliffe](XtraTracks2025-1.md)  | [Register soon]()  |
 | 06-05-2026 16:00 | [Introduction](XtraTracks2026-8.md)  | [Andreas Beß](XtraTracks2025-1.md)  | [Register soon]()  |
 | 13-05-2026 16:00 | [Introduction](XtraTracks2026-9.md)  | [Tiplu?](XtraTracks2025-1.md)  | [Register soon]()  |
