@@ -20,7 +20,9 @@ Detailed information about the speakers will be made available soon (and then ca
 <center><p style="font-size:11px"><a href="https://www.listserv.dfn.de/sympa/subscribe/xtratracks.com?previous_action=info" target="_blank">Register for general Updates on the XtraTracks </a></p></center>
 
 
-<p>This years <b> season opening is a Workshop at the GMDS DMEA Satelitenveranstaltung in Berlin at 20.April, 2026 at NH Hotel Berlin Alexanderplatz.</b> <a href="https://www.gmds.de/aktuelles-termine/dmea-satellitenveranstaltung-2026-von-gmds-und-bvmi/"> Further Details </a><p>
+<p>This years <b> season opening is a Workshop at the GMDS DMEA Satelitenveranstaltung in Berlin at 20.April, 2026 at NH Hotel Berlin Alexanderplatz.</b> <a href="https://www.gmds.de/aktuelles-termine/dmea-satellitenveranstaltung-2026-von-gmds-und-bvmi/"> Further Details </a></p>
+
+---
 
 
 |Date   |Title   |Speaker   |Register |
@@ -37,7 +39,7 @@ Detailed information about the speakers will be made available soon (and then ca
 
 <p>Join us in person in Berlin and <a href="https://www.gmds.de/index.php?id=2247" target="_blank"> register here </a> (ohne Beitrag) für Den Workshop 1: „Entscheidungen neu denken, Wie Kl die Medizin unterstützt, nicht ersetzt" before the maximal capacity is reached.</p>
 
-
+---
 
 |Date   |Title   |Speaker   |Register / Talk   |
 |---|---|---|---|
@@ -48,6 +50,8 @@ Detailed information about the speakers will be made available soon (and then ca
 | 10-06-2026 16:00 | [Introduction](XtraTracks2026-12.md)  | [Matthias Kaspar](XtraTracks2026-12.md)  | [Register soon]()  |
 | 24-06-2026 16:00 | [Introduction](XtraTracks2026-14.md)  | [Griet Verhenneman](XtraTracks2026-14.md)  | [Register soon]()  |
 | 01-07-2026 16:00 | [Introduction](XtraTracks2026-15.md)  | [Myriam Lipprandt](XtraTracks2026-15.md)  | [Register soon]()  |
+
+
 
 ## Trainingpoint-FAQ:
 * Be the first.
