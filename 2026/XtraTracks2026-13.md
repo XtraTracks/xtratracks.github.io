@@ -2,7 +2,7 @@
 
 [Overview](XtraTracksOverview)
 
-<p style="font-size:11px">??-05-2025 16:00</p>
+<p style="font-size:11px">17-06-2026 16:00</p>
 
 <p style="font-size:11px">After giving an overview over the upcoming lecture series, this talk will give a short introduction into the field of clinical decision support. While clinical decision support systems are becoming an increasingly important part of modern medicine, the training and education in digital medicine is still at its very beginning. </p>
 
@@ -13,7 +13,7 @@
 
 <!-- [Join Us Life](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
-<!-- ## Prof. Dr. Silvia Miksch !!NOCH UNBESTÄTIGT!! - University Hospital Münster, Office for eHealth 
+<!-- ## Dr. Andreas Beß - University Hospital Münster, Office for eHealth 
 <img src="/images/2025/Juhra.jpg?raw=true" height="200" />
 
 <p style="font-size:11px">Christian is a general surgeon and emergency medicine specialist. Besides his medical training, he has an MBA and is a certified medical informatics specialist. He is the Head of the Office for eHealth at the University Hospital Münster, which he founded in 2015. He was granted the right to train physicians in Medical Informatics. The Office for eHealth directed or participated in a number of different eHealth research studies in various medical disciplines such as neurology, trauma care, intensive care, emergency medicine, obstretics and palliative care.</p>
