@@ -16,7 +16,7 @@ The talk provides a comprehensive overview of the regulatory landscape specifica
 
 <!-- [Join Us Life](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
-<a href="www.johner-institut.de"> Prof. Dr. Christian Johner - Johner Institute </a>
+## <a href="www.johner-institut.de"> Prof. Dr. Christian Johner - Johner Institute </a>
 <img src="/images/2026/Johner.jpg?raw=true" height="200" />
 
 <p style="font-size:11px"> Professor Johner is a leading expert in the development and approval of medical devices, particularly those incorporating or consisting of software. Through his diverse roles as an auditor, standards committee member, policy advisor, trainer of notified bodies, and author of numerous books and guidelines, Dr. Johner actively contributes to the advancement of regulatory frameworks and the digital transformation within the medical device ecosystem. 
