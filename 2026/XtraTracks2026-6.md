@@ -1,10 +1,13 @@
-### Introduction [(XtraTrack Season 2026)](XtraTracksOverview)
+### Navigating Regulatory Requirements for CDSS [(XtraTrack Season 2026)](XtraTracksOverview)
 
 [Overview](XtraTracksOverview)
 
-<p style="font-size:11px">??-05-2025 16:00</p>
+<p style="font-size:11px">20-04-2026</p>
 
-<p style="font-size:11px">After giving an overview over the upcoming lecture series, this talk will give a short introduction into the field of clinical decision support. While clinical decision support systems are becoming an increasingly important part of modern medicine, the training and education in digital medicine is still at its very beginning. </p>
+<p style="font-size:11px">The number and complexity of regulatory requirements (laws, directives, regulations, standards, guidelines etc.) is exploding. Both, domain specific requirements such as the EU Medical Device Regulation, as well as orthogonal requirements such as the EU AI Act are a burden for most manufacturers. 
+
+The talk provides a comprehensive overview of the regulatory landscape specifically for CDSS and gives guidance how to avoid the typical pitfalls and to reach regulatory compliance effectively and efficiently.
+ </p>
 
 <!-- Once the Video is recorded -->
 <!-- <center> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fuxYr-oMcIs?si=7S4BtCM3z63h4n5i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
@@ -13,10 +16,14 @@
 
 <!-- [Join Us Life](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
-<!-- ## Prof. Dr. Christian Johner - Johner Institute
-<img src="/images/2025/Juhra.jpg?raw=true" height="200" />
+< ## <a href="www.johner-institut.de"> Prof. Dr. Christian Johner - Johner Institute </a>
+<img src="/images/2026/Johner.jpg?raw=true" height="200" />
 
-<p style="font-size:11px"> is a general surgeon and emergency medicine specialist. Besides his medical training, he has an MBA and is a certified medical informatics specialist. He is the Head of the Office for eHealth at the University Hospital Münster, which he founded in 2015. He was granted the right to train physicians in Medical Informatics. The Office for eHealth directed or participated in a number of different eHealth research studies in various medical disciplines such as neurology, trauma care, intensive care, emergency medicine, obstretics and palliative care.</p>
+<p style="font-size:11px"> Professor Johner is a leading expert in the development and approval of medical devices, particularly those incorporating or consisting of software. Through his diverse roles as an auditor, standards committee member, policy advisor, trainer of notified bodies, and author of numerous books and guidelines, Dr. Johner actively contributes to the advancement of regulatory frameworks and the digital transformation within the medical device ecosystem. 
+
+His company, the Johner Institute, offers comprehensive services to the medical device industry worldwide. These include regulatory guidance, device testing, professional training through seminars and e-learning courses, and support for digital transformation initiatives. The Institute also provides Enterprise SaaS solutions to streamline regulatory processes for manufacturers, authorities, and notified bodies. 
+
+Throughout his career, Christian has shared his expertise through teaching engagements at several institutions, including the University of Konstanz (Germany), the University of St. Gallen (Switzerland), the University of Würzburg (Germany), and Stanford University (USA). </p>
 
 <!-- second speaker-->
 <!--<img src="/images/??/USER.jpg?raw=true"/>
