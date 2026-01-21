@@ -27,7 +27,7 @@ Detailed information about the speakers will be made available soon (and then ca
 
 |Date   |Title   |Speaker   |Register |
 |---|---|---|---|
-| 20-04-2026 13:00 | [Overview of relevant publications on clinical decision support systems from 2025](XtraTracks2026-1.md)  | [Cord Spreckelsen](XtraTracks2026-1.md)  | [Register soon](https://www.gmds.de/index.php?id=2247)  |
+| 20-04-2026 13:00 | [Overview of relevant publications on clinical decision support systems from 2025](XtraTracks2026-1.md)  | [Cord Spreckelsen](XtraTracks2026-1.md)  | [Register](https://www.gmds.de/index.php?id=2247)  |
 | 20-04-2026 13:35 | [Introduction](XtraTracks2026-2.md)  | [Otto Rienhoff](XtraTracks20256-2.md)  | [Register](https://www.gmds.de/index.php?id=2247)  |
 | 20-04-2026 14:20 | [Introduction](XtraTracks2026-3.md)  | [Antje Wulff](XtraTracks2026-3.md)  | [Register](https://www.gmds.de/index.php?id=2247)  |
 | 20-04-2026 14:40 | [Introduction](XtraTracks2026-4.md)  | [Toralf Kirste](XtraTracks2026-4.md)  | [Register](https://www.gmds.de/index.php?id=2247)  |
