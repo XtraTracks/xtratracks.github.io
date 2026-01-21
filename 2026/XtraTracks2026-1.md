@@ -13,7 +13,7 @@
 
 <!-- [Join Us Life](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
-< ## <a href="https://www.uniklinikum-jena.de/imsid/%C3%9Cber+uns/Kontaktpersonen.html">Prof. Dr. Cord Spreckelsen</a> - Institute of Medical Statistics, Computer and Data Sciences - Jena University Hospital 
+<a href="https://www.uniklinikum-jena.de/imsid/%C3%9Cber+uns/Kontaktpersonen.html">Prof. Dr. Cord Spreckelsen</a> - Institute of Medical Statistics, Computer and Data Sciences - Jena University Hospital 
 <img src="/images/2026/Spreckelsen_Cord.jpg?raw=true" height="200" />
 
 <p style="font-size:11px">Cord Spreckelsen is Professor of Medical Informatics at the Institute for Medical Statistics, Informatics and Data Sciences at Jena University Hospital. Prior to this, he worked for many years as a senior scientist at the Institute for Medical Informatics at RWTH Aachen University. From 2009 to 2025, he was head of the working group ‘Decision Support in Healthcare’ (formerly ‘Knowledge-Based Systems’) of the German Society for Medical Informatics, Biometrics and Epidemiology (GMDS).

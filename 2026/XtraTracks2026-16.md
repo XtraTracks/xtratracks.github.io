@@ -15,7 +15,8 @@ The presentation summarizes the insights gained, discusses the implications for 
 
 <!-- [Join Us Life](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
-<## M.Sc. Benny Platte, - Hochschule Mittweida, Fakultät Computer- und Biowissenschaften, Germany
+## M.Sc. Benny Platte, - Hochschule Mittweida, Fakultät Computer- und Biowissenschaften, Germany
+
 <img src="/images/2026/Platte.jpg?raw=true" height="200" />
 
 <p style="font-size:11px">Benny Platte is a researcher at the Institute of Computer and Bioscience at the University of Applied Sciences Mittweida. His research focuses on the participatory integration of office-based physicians into medical research and on the secondary use of telemedical routine data under real-world conditions. A central objective of his work is to enable ambulatory care settings to actively contribute to evidence generation by establishing sustainable methodological, technical, and regulatory frameworks.
