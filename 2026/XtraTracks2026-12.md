@@ -1,10 +1,10 @@
-### Introduction [(XtraTrack Season 2026)](XtraTracksOverview)
+### From Distributed Data to Central Models: Federated Machine Learning in Medicine [(XtraTrack Season 2026)](XtraTracksOverview)
 
 [Overview](XtraTracksOverview)
 
-<p style="font-size:11px">??-05-2025 16:00</p>
+<p style="font-size:11px">10-06-2026 16:00</p>
 
-<p style="font-size:11px">After giving an overview over the upcoming lecture series, this talk will give a short introduction into the field of clinical decision support. While clinical decision support systems are becoming an increasingly important part of modern medicine, the training and education in digital medicine is still at its very beginning. </p>
+<p style="font-size:11px">Routine clinical data collected in hospitals holds great potential for use in clinical decision support and medical research. Modern machine learning methods can create predictive models for complex clinical questions across a wide range of medical domains. In practice, however, the use of such data is severely limited, not only to legal and ethical constraints, but also to organisational and technical challenges. Federated learning (FL) represents one possible approach to address some of these limitations. It enables decentralized training and evaluation of machine learning models, while sensitive, high-resolution patient data remains at local institutions. Furthermore, it has the potential to produce more generalisable models, as it can be trained on different data in various institutions. Despite these advantages, federated approaches introduce additional challenges. From a technical perspective, they often require increased expertise, infrastructure and time at the participating sites. From an organisational and regulatory standpoint, federated analysis is still insufficiently understood. From a methodological standpoint, it remains an open question how federated models should be optimally trained and evaluated, and under which conditions they can outperform or complement centrally or locally trained models, incorporating the benefits of diverse datasets from various clinics. This talk provides an overview of federated analysis and learning approaches in medicine, illustrating their application through selected examples from intensive care practice and highlighting their potential to advance collaborative, multi-center research.</p>
 
 <!-- Once the Video is recorded -->
 <!-- <center> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fuxYr-oMcIs?si=7S4BtCM3z63h4n5i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
@@ -13,10 +13,10 @@
 
 <!-- [Join Us Life](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
-<!-- ## Dr. Matthias Kaspar - University Augsburg 
-<img src="/images/2025/Juhra.jpg?raw=true" height="200" />
+## <a href='https://www.uk-augsburg.de/einrichtungen/institute/institut-fuer-digitale-medizin/ueberblick'>PD Dr. rer. nat. Mathias Kaspar </a> - Institute of Digital Medicine, Augsburg University Hospital 
+<img src="/images/2026/Kaspar.jpg?raw=true" height="200" />
 
-<p style="font-size:11px">Christian is a general surgeon and emergency medicine specialist. Besides his medical training, he has an MBA and is a certified medical informatics specialist. He is the Head of the Office for eHealth at the University Hospital Münster, which he founded in 2015. He was granted the right to train physicians in Medical Informatics. The Office for eHealth directed or participated in a number of different eHealth research studies in various medical disciplines such as neurology, trauma care, intensive care, emergency medicine, obstretics and palliative care.</p>
+<p style="font-size:11px">PD Dr. rer. nat. Mathias Kaspar is a senior researcher in medical informatics with extensive experience in both academia and industry. He completed his studies and PhD in Medical Informatics at the Georg-August University Göttingen, including a two-year research stay at the Computation Institute, University of Chicago. He gained industry experience at Siemens Health in Erlangen and the USA. Dr. Kaspar has held long-term research positions at the German Center for Heart Failure in Würzburg, the Department of Health Services Research at Carl von Ossietzky University Oldenburg, and the Institute for Digital Medicine. His research focuses on the provision and utilization of routine medical data for research, including data preparation, enabling new use cases, and big data analytics using statistics, machine learning, and federated analysis.</p>
 
 <!-- second speaker-->
 <!--<img src="/images/??/USER.jpg?raw=true"/>
