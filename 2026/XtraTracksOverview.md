@@ -46,7 +46,7 @@ Detailed information about the speakers will be made available soon (and then ca
 | 29-04-2026 16:00 | [Introduction](XtraTracks2026-7.md)  | [Edward Shortliffe](XtraTracks2026-7.md)  | [Register](https://ticketpass.org/event/EHQTQC/edward-shortliffe-introduction-to-clinical-decision-support-systems)  |
 | 27-05-2026 16:00 | [Introduction](XtraTracks2026-10.md)  | [Julian Kunkel](XtraTracks2026-10.md)  | [Register soon]()  |
 | 03-06-2026 16:00 | [Introduction](XtraTracks2026-11.md)  | [Stepahnie Medlock](XtraTracks2026-11.md)  | [Register soon]()  |
-| 10-06-2026 16:00 | [From Distributed Data to Central Models: Federated Machine Learning in Medicine](XtraTracks2026-12.md)  | [Matthias Kaspar](XtraTracks2026-12.md)  | [Register soon]()  |
+| 10-06-2026 16:00 | [From Distributed Data to Central Models: Federated Machine Learning in Medicine](XtraTracks2026-12.md)  | [Mathias Kaspar](XtraTracks2026-12.md)  | [Register soon]()  |
 | 17-06-2026 16:00 | [Introduction](XtraTracks2026-13.md)  | [Andreas Beß](XtraTracks2026-13.md)  | [Register soon]()  |
 | 24-06-2026 16:00 | [Introduction](XtraTracks2026-14.md)  | [Griet Verhenneman](XtraTracks2026-14.md)  | [Register soon]()  |
 | 01-07-2026 16:00 | [Introduction](XtraTracks2026-15.md)  | [Myriam Lipprandt](XtraTracks2026-15.md)  | [Register soon]()  |
