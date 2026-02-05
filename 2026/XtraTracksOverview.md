@@ -20,20 +20,20 @@ Detailed information about the speakers will be made available soon (and then ca
 <center><p style="font-size:11px"><a href="https://www.listserv.dfn.de/sympa/subscribe/xtratracks.com?previous_action=info" target="_blank">Register for general Updates on the XtraTracks </a></p></center>
 
 
-<p>This years <b> season opening is a Workshop at the GMDS DMEA Satelitenveranstaltung in Berlin at 20.April, 2026 at NH Hotel Berlin Alexanderplatz.</b> <a href="https://www.gmds.de/aktuelles-termine/beitrag/dmea-satellitenveranstaltung/"> Further Details </a></p>
+<p>This years <b> season opening is a Workshop at the GMDS DMEA Satelitenveranstaltung in Berlin at 20.April, 2026 at NH Hotel Berlin Alexanderplatz.</b> <a href="https://eveeno.com/498600545"> Further Details Book as "Workshop 1: „Entscheidungen neu denken, Wie KI die Medizin unterstützt, nicht ersetzt“"</a></p>
 
 ---
 
 
 |Date   |Title   |Speaker   |Register |
 |---|---|---|---|
-| 20-04-2026 13:00 | [Overview of relevant publications on clinical decision support systems from 2025](XtraTracks2026-1.md)  | [Cord Spreckelsen](XtraTracks2026-1.md)  | [Register](https://www.gmds.de/index.php?id=2247)  |
-| 20-04-2026 13:35 | [Introduction](XtraTracks2026-2.md)  | [Otto Rienhoff](XtraTracks20256-2.md)  | [Register](https://www.gmds.de/index.php?id=2247)  |
-| 20-04-2026 14:20 | [Introduction](XtraTracks2026-3.md)  | [Antje Wulff](XtraTracks2026-3.md)  | [Register](https://www.gmds.de/index.php?id=2247)  |
-| 20-04-2026 14:40 | [Introduction](XtraTracks2026-4.md)  | [Toralf Kirste](XtraTracks2026-4.md)  | [Register](https://www.gmds.de/index.php?id=2247)  |
-| 20-04-2026 15:00 | [Introduction](XtraTracks2026-5.md)  | [Anne-Christin Hauschild](XtraTracks2026-5.md)  | [Register](https://www.gmds.de/index.php?id=2247)  |
-| 20-04-2026 15:40 | [Navigating Regulatory Requirements for CDSS](XtraTracks2026-6.md)  | [Christian Johner](XtraTracks2026-6.md)  | [Register](https://www.gmds.de/index.php?id=2247)  |
-| 20-04-2026 18:00 -21:00 | Get together with | all participants  | [Register](https://www.gmds.de/index.php?id=2247)  |
+| 20-04-2026 13:00 | [Overview of relevant publications on clinical decision support systems from 2025](XtraTracks2026-1.md)  | [Cord Spreckelsen](XtraTracks2026-1.md)  | [Register](https://eveeno.com/498600545)  |
+| 20-04-2026 13:35 | [Introduction](XtraTracks2026-2.md)  | [Otto Rienhoff](XtraTracks20256-2.md)  | [Register](https://eveeno.com/498600545)  |
+| 20-04-2026 14:20 | [Introduction](XtraTracks2026-3.md)  | [Antje Wulff](XtraTracks2026-3.md)  | [Register](https://eveeno.com/498600545)  |
+| 20-04-2026 14:40 | [Introduction](XtraTracks2026-4.md)  | [Toralf Kirste](XtraTracks2026-4.md)  | [Register](https://eveeno.com/498600545)  |
+| 20-04-2026 15:00 | [Introduction](XtraTracks2026-5.md)  | [Anne-Christin Hauschild](XtraTracks2026-5.md)  | [Register](https://eveeno.com/498600545)  |
+| 20-04-2026 15:40 | [Navigating Regulatory Requirements for CDSS](XtraTracks2026-6.md)  | [Christian Johner](XtraTracks2026-6.md)  | [Register](https://eveeno.com/498600545)  |
+| 20-04-2026 18:00 -21:00 | Get together with | all participants  | [Register](https://eveeno.com/498600545)  |
 |---|---|---|---|
 
 
