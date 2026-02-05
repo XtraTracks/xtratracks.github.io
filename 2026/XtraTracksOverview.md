@@ -20,7 +20,7 @@ Detailed information about the speakers will be made available soon (and then ca
 <center><p style="font-size:11px"><a href="https://www.listserv.dfn.de/sympa/subscribe/xtratracks.com?previous_action=info" target="_blank">Register for general Updates on the XtraTracks </a></p></center>
 
 
-<p>This years <b> season opening is a Workshop at the GMDS DMEA Satelitenveranstaltung in Berlin at 20.April, 2026 at NH Hotel Berlin Alexanderplatz.</b> <a href="https://eveeno.com/498600545"> Further Details Book as "Workshop 1: „Entscheidungen neu denken, Wie KI die Medizin unterstützt, nicht ersetzt“"</a></p>
+<p>This years <b> season opening is a Workshop at the GMDS DMEA Satelitenveranstaltung in Berlin at 20.April, 2026 at NH Hotel Berlin Alexanderplatz.</b> <a href="https://www.gmds.de/aktuelles-termine/beitrag/dmea-satellitenveranstaltung/"> Further Details (Book as "Workshop 1: „Entscheidungen neu denken, Wie KI die Medizin unterstützt, nicht ersetzt“")</a></p>
 
 ---
 
