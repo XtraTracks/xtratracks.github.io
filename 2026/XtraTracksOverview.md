@@ -29,7 +29,7 @@ Detailed information about the speakers will be made available soon (and then ca
 |---|---|---|---|
 | 20-04-2026 13:00 | [Overview of relevant publications on clinical decision support systems from 2025](XtraTracks2026-1.md)  | [Cord Spreckelsen](XtraTracks2026-1.md)  | [Register](https://eveeno.com/498600545)  |
 | 20-04-2026 13:35 | [Introduction](XtraTracks2026-2.md)  | [Otto Rienhoff](XtraTracks20256-2.md)  | [Register](https://eveeno.com/498600545)  |
-| 20-04-2026 14:20 | [Introduction](XtraTracks2026-3.md)  | [Antje Wulff](XtraTracks2026-3.md)  | [Register](https://eveeno.com/498600545)  |
+| 20-04-2026 14:20 | [Interoperability Challenges in CDSS: From Data to Design to Practice](XtraTracks2026-3.md)  | [Antje Wulff](XtraTracks2026-3.md)  | [Register](https://eveeno.com/498600545)  |
 | 20-04-2026 14:40 | [Introduction](XtraTracks2026-4.md)  | [Toralf Kirste](XtraTracks2026-4.md)  | [Register](https://eveeno.com/498600545)  |
 | 20-04-2026 15:00 | [Introduction](XtraTracks2026-5.md)  | [Anne-Christin Hauschild](XtraTracks2026-5.md)  | [Register](https://eveeno.com/498600545)  |
 | 20-04-2026 15:40 | [Navigating Regulatory Requirements for CDSS](XtraTracks2026-6.md)  | [Christian Johner](XtraTracks2026-6.md)  | [Register](https://eveeno.com/498600545)  |
@@ -43,12 +43,12 @@ Detailed information about the speakers will be made available soon (and then ca
 
 |Date   |Title   |Speaker   |Register / Talk   |
 |---|---|---|---|
-| 29-04-2026 16:00 | [Introduction](XtraTracks2026-7.md)  | [Edward Shortliffe](XtraTracks2026-7.md)  | [Register](https://ticketpass.org/event/EHQTQC/edward-shortliffe-introduction-to-clinical-decision-support-systems)  |
+| 29-04-2026 16:00 | [Biomedical AI:  Its Roots, Evolution, and Agenda for the Future](XtraTracks2026-7.md)  | [Edward Shortliffe](XtraTracks2026-7.md)  | [Register](https://ticketpass.org/event/EHQTQC/edward-shortliffe-introduction-to-clinical-decision-support-systems)  |
 | 27-05-2026 16:00 | [Introduction](XtraTracks2026-10.md)  | [Julian Kunkel](XtraTracks2026-10.md)  | [Register soon]()  |
-| 03-06-2026 16:00 | [Introduction](XtraTracks2026-11.md)  | [Stepahnie Medlock](XtraTracks2026-11.md)  | [Register soon]()  |
+| 03-06-2026 16:00 | [Evaluation of Clinical Decision Support, with fall prevention as a case study](XtraTracks2026-11.md)  | [Stepahnie Medlock](XtraTracks2026-11.md)  | [Register soon]()  |
 | 10-06-2026 16:00 | [From Distributed Data to Central Models: Federated Machine Learning in Medicine](XtraTracks2026-12.md)  | [Mathias Kaspar](XtraTracks2026-12.md)  | [Register soon]()  |
 | 17-06-2026 16:00 | [Introduction](XtraTracks2026-13.md)  | [Andreas Beß](XtraTracks2026-13.md)  | [Register soon]()  |
-| 24-06-2026 16:00 | [Introduction](XtraTracks2026-14.md)  | [Griet Verhenneman](XtraTracks2026-14.md)  | [Register soon]()  |
+| 24-06-2026 16:00 | [Above and Beyond Compliance: Leveraging the AI Act to Enhance Quality Assurance in Clinical Decision-Making](XtraTracks2026-14.md)  | [Griet Verhenneman](XtraTracks2026-14.md)  | [Register soon]()  |
 | 01-07-2026 16:00 | [Introduction](XtraTracks2026-15.md)  | [Myriam Lipprandt](XtraTracks2026-15.md)  | [Register soon]()  |
 | ??-??-2026 16:00 | [GDNG im Praxistest – von Reformanspruch zu Realität und Resilienz](XtraTracks2026-16.md)  | [Benjamin Platte](XtraTracks2026-16.md)  | [
 
