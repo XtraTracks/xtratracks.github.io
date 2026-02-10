@@ -49,7 +49,6 @@ Detailed information about the speakers will be made available soon (and then ca
 | 10-06-2026 16:00 | [From Distributed Data to Central Models: Federated Machine Learning in Medicine](XtraTracks2026-12.md)  | [Mathias Kaspar](XtraTracks2026-12.md)  | [Register soon]()  |
 | 17-06-2026 16:00 | [Introduction](XtraTracks2026-13.md)  | [Andreas Beß](XtraTracks2026-13.md)  | [Register soon]()  |
 | 24-06-2026 16:00 | [Above and Beyond Compliance: Leveraging the AI Act to Enhance Quality Assurance in Clinical Decision-Making](XtraTracks2026-14.md)  | [Griet Verhenneman](XtraTracks2026-14.md)  | [Register soon]()  |
-| 01-07-2026 16:00 | [Introduction](XtraTracks2026-15.md)  | [Myriam Lipprandt](XtraTracks2026-15.md)  | [Register soon]()  |
 | ??-??-2026 16:00 | [GDNG im Praxistest – von Reformanspruch zu Realität und Resilienz](XtraTracks2026-16.md)  | [Benjamin Platte](XtraTracks2026-16.md)  | [
 
 
