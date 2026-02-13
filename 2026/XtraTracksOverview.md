@@ -47,7 +47,7 @@ Detailed information about the speakers will be made available soon (and then ca
 | 27-05-2026 16:00 | [Introduction](XtraTracks2026-10.md)  | [Julian Kunkel](XtraTracks2026-10.md)  | [Register soon]()  |
 | 03-06-2026 16:00 | [Evaluation of Clinical Decision Support, with fall prevention as a case study](XtraTracks2026-11.md)  | [Stepahnie Medlock](XtraTracks2026-11.md)  | [Register soon]()  |
 | 10-06-2026 16:00 | [From Distributed Data to Central Models: Federated Machine Learning in Medicine](XtraTracks2026-12.md)  | [Mathias Kaspar](XtraTracks2026-12.md)  | [Register soon]()  |
-| 17-06-2026 16:00 | [Introduction](XtraTracks2026-13.md)  | [Andreas Beß](XtraTracks2026-13.md)  | [Register soon]()  |
+| 17-06-2026 16:00 | [Clinical Decision Support under the KHZG – Current State, Developments, and Challenges](XtraTracks2026-13.md)  | [Andreas Beß](XtraTracks2026-13.md)  | [Register soon]()  |
 | 24-06-2026 16:00 | [Above and Beyond Compliance: Leveraging the AI Act to Enhance Quality Assurance in Clinical Decision-Making](XtraTracks2026-14.md)  | [Griet Verhenneman](XtraTracks2026-14.md)  | [Register soon]()  |
 | ??-??-2026 16:00 | [GDNG im Praxistest – von Reformanspruch zu Realität und Resilienz](XtraTracks2026-16.md)  | [Benjamin Platte](XtraTracks2026-16.md)  | [
 
