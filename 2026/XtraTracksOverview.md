@@ -39,17 +39,18 @@ Detailed information about the speakers will be made available soon (and then ca
 
 <p>Join us in person in Berlin and <a href="https://www.gmds.de/index.php?id=2247" target="_blank"> register here </a> (ohne Beitrag) für Den Workshop 1: „Entscheidungen neu denken, Wie Kl die Medizin unterstützt, nicht ersetzt" before the maximal capacity is reached.</p>
 
+
 ---
 
 |Date   |Title   |Speaker   |Register / Talk   |
 |---|---|---|---|
 | 29-04-2026 16:00 | [Biomedical AI:  Its Roots, Evolution, and Agenda for the Future](XtraTracks2026-7.md)  | [Edward Shortliffe](XtraTracks2026-7.md)  | [Register](https://ticketpass.org/event/EHQTQC/edward-shortliffe-introduction-to-clinical-decision-support-systems)  |
-| 27-05-2026 16:00 | [Introduction](XtraTracks2026-10.md)  | [Julian Kunkel](XtraTracks2026-10.md)  | [Register soon]()  |
+| 20-05-2026 16:00 | [GDNG im Praxistest – von Reformanspruch zu Realität und Resilienz](XtraTracks2026-16.md)  | [Benjamin Platte](XtraTracks2026-16.md)  | [Register](https://ticketpass.org/event/ERAKKZ/) |
+| 27-05-2026 16:00 | [Developing secure applications for health providers and research.](XtraTracks2026-10.md)  | [Julian Kunkel](XtraTracks2026-10.md)  | [Register soon]()  |
 | 03-06-2026 16:00 | [Evaluation of Clinical Decision Support, with fall prevention as a case study](XtraTracks2026-11.md)  | [Stepahnie Medlock](XtraTracks2026-11.md)  | [Register](https://ticketpass.org/event/EKHSMH/stepahnie-medlock-evaluation-of-clinical-decision-support-with-fall-prevention-as-a-case-study)  |
 | 10-06-2026 16:00 | [From Distributed Data to Central Models: Federated Machine Learning in Medicine](XtraTracks2026-12.md)  | [Mathias Kaspar](XtraTracks2026-12.md)  | [Register](https://ticketpass.org/event/EHJYKC/mathias-kaspar-from-distributed-data-to-central-models-federated-machine-learning-in-medicine)  |
 | 17-06-2026 16:00 | [Clinical Decision Support under the KHZG – Current State, Developments, and Challenges](XtraTracks2026-13.md)  | [Andreas Beß](XtraTracks2026-13.md)  | [Register](https://ticketpass.org/event/ELRNVL/andreas-bess-clinical-decision-support-under-the-khzg-current-state-developments-and-challenges)  |
 | 24-06-2026 16:00 | [Above and Beyond Compliance: Leveraging the AI Act to Enhance Quality Assurance in Clinical Decision-Making](XtraTracks2026-14.md)  | [Griet Verhenneman](XtraTracks2026-14.md)  | [Register](https://ticketpass.org/event/ERAKKZ/griet-verhenneman-above-and-beyond-compliance-leveraging-the-ai-act-to-enhance-quality-assurance-in-clinical-decision-making)  |
-| ??-??-2026 16:00 | [GDNG im Praxistest – von Reformanspruch zu Realität und Resilienz](XtraTracks2026-16.md)  | [Benjamin Platte](XtraTracks2026-16.md)  | [
 
 
 ## Trainingpoint-FAQ:
