@@ -13,7 +13,7 @@ The presentation summarizes the insights gained, discusses the implications for 
 <!-- Once the Video is recorded -->
 <!-- <center> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fuxYr-oMcIs?si=7S4BtCM3z63h4n5i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>-->
 
-[Register now](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.
+[Register now](https://ticketpass.org/event/EAKFRW/benjamin-platte-gdng-im-praxistest-von-reformanspruch-zu-realitat-und-resilienz-in-german) to secure your spot in the lectures and receive a calendar invitation including the access link.
 
 <!-- [Join Us Life](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
