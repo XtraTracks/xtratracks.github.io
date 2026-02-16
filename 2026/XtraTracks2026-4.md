@@ -1,10 +1,10 @@
-### Introduction [(XtraTrack Season 2026)](XtraTracksOverview)
+### Beyong the AMPEL and the Clinical Decision Support Network [(XtraTrack Season 2026)](XtraTracksOverview)
 
 [Overview](XtraTracksOverview)
 
-<p style="font-size:11px">??-05-2025 16:00</p>
+<p style="font-size:11px">20-04-2025 16:00</p>
 
-<p style="font-size:11px">After giving an overview over the upcoming lecture series, this talk will give a short introduction into the field of clinical decision support. While clinical decision support systems are becoming an increasingly important part of modern medicine, the training and education in digital medicine is still at its very beginning. </p>
+<p style="font-size:11px"> Beyong the AMPEL and the Clinical Decision Support Network Text will follow</p>
 
 <!-- Once the Video is recorded -->
 <!-- <center> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fuxYr-oMcIs?si=7S4BtCM3z63h4n5i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
