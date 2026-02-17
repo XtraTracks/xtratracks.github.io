@@ -14,9 +14,9 @@
 <!-- [Join Us Life](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
 ## Prof. Dr. Otto Rienhoff 
-<!--<img src="/images/2025/Juhra.jpg?raw=true" height="200" />
+<!--<img src="/images/2026/xx.jpg?raw=true" height="200" />-->
 
-<p style="font-size:11px">Christian is a general surgeon and emergency medicine specialist. Besides his medical training, he has an MBA and is a certified medical informatics specialist. He is the Head of the Office for eHealth at the University Hospital Münster, which he founded in 2015. He was granted the right to train physicians in Medical Informatics. The Office for eHealth directed or participated in a number of different eHealth research studies in various medical disciplines such as neurology, trauma care, intensive care, emergency medicine, obstretics and palliative care.</p>
+<p style="font-size:11px">Otto Rienhoff started work in MI and CDSS during his student years at the medical faculty in Muen-ster addressing ECG–analysis. Afterwards, he was inspired at the Med. School Hanover by Peter L. Reichertz and his experiences from famous colleagues at the University of Missouri. International projects e.g. with Tel Hashomer Hospital in Israel addressed CDSS as well. The broad international experience made him understand how much success in MI-applications depend on the interfacea-bility of practical clinical work and CDSS systems and of different traditions of innovation manage-ment in national health systems.  https://medizininformatik.umg.eu/fileadmin/Redaktion/Medizinische_Informatik/Ueber_uns/CV_Rienhoff_2025.pdf</p>
 
 <!-- second speaker-->
 <!--<img src="/images/??/USER.jpg?raw=true"/>
