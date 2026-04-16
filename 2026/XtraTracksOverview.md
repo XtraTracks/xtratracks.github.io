@@ -30,7 +30,7 @@ Detailed information about the speakers will be made available soon (and then ca
 | 20-04-2026 13:00 | [Overview of relevant publications on clinical decision support systems from 2025](XtraTracks2026-1.md)  | [Cord Spreckelsen](XtraTracks2026-1.md)  | [Register](https://eveeno.com/498600545)  |
 | 20-04-2026 13:35 | [Learning from 70 Years of MI-History how to Move AI-Based CDSS to Success](XtraTracks2026-2.md)  | [Otto Rienhoff](XtraTracks20256-2.md)  | [Register](https://eveeno.com/498600545)  |
 | 20-04-2026 14:20 | [Interoperability Challenges in CDSS: From Data to Design to Practice](XtraTracks2026-3.md)  | [Antje Wulff](XtraTracks2026-3.md)  | [Register](https://eveeno.com/498600545)  |
-| 20-04-2026 14:40 | [Beyong the AMPEL and the Clinical Decision Support Network](XtraTracks2026-4.md)  | [Toralf Kirste](XtraTracks2026-4.md)  | [Register](https://eveeno.com/498600545)  |
+| 20-04-2026 14:40 | [Beyond the AMPEL and the Clinical Decision Support Network](XtraTracks2026-4.md)  | [Toralf Kirsten](XtraTracks2026-4.md)  | [Register](https://eveeno.com/498600545)  |
 | 20-04-2026 15:00 | [Unlocking the Potential of Health Data: Navigating the Challenges of Predictive Modeling in Clinical Decision-Making](XtraTracks2026-5.md)  | [Anne-Christin Hauschild](XtraTracks2026-5.md)  | [Register](https://eveeno.com/498600545)  |
 | 20-04-2026 15:40 | [Navigating Regulatory Requirements for CDSS](XtraTracks2026-6.md)  | [Christian Johner](XtraTracks2026-6.md)  | [Register](https://eveeno.com/498600545)  |
 | 20-04-2026 18:00 -21:00 | Get together with | all participants  | [Register](https://eveeno.com/498600545)  |
