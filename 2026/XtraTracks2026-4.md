@@ -13,8 +13,8 @@
 
 <!-- [Join Us Life](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
-<!-- ## Prof. Dr. Toralf Kirste, - University Hospital Leipzig,
-<img src="/images/2025/Juhra.jpg?raw=true" height="200" />-->
+## Prof. Dr. Toralf Kirste, - University Hospital Leipzig
+<--!<img src="/images/2025/Juhra.jpg?raw=true" height="200" />-->
 
 <p style="font-size:11px">Prof. Dr. Toralf Kirsten is Professor of Medical Data Science at Leipzig University. He heads the Department of Medical Data Science at the Medical Informatics Center at the Leipzig University Medical Center and is also affiliated with the Institute for Medical Informatics, Statistics and Epidemiology at the Medical Faculty.
 
