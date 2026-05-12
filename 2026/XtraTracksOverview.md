@@ -44,7 +44,7 @@ Detailed information about the speakers will be made available soon (and then ca
 
 |Date   |Title   |Speaker   |Register / Talk   |
 |---|---|---|---|
-| 29-04-2026 16:00 | [Biomedical AI:  Its Roots, Evolution, and Agenda for the Future](XtraTracks2026-7.md)  | [Edward Shortliffe](XtraTracks2026-7.md)  | [Register](https://ticketpass.org/event/EHQTQC/edward-shortliffe-introduction-to-clinical-decision-support-systems)  |
+| 29-04-2026 16:00 | [Biomedical AI:  Its Roots, Evolution, and Agenda for the Future](XtraTracks2026-7.md)  | [Edward Shortliffe](XtraTracks2026-7.md)  | [Recording](XtraTracks2026-7.md)  |
 | 20-05-2026 16:00 | [GDNG im Praxistest – von Reformanspruch zu Realität und Resilienz](XtraTracks2026-16.md)  | [Benjamin Platte](XtraTracks2026-16.md)  | [Register](https://ticketpass.org/event/EAKFRW/benjamin-platte-gdng-im-praxistest-von-reformanspruch-zu-realitat-und-resilienz-in-german) |
 | 27-05-2026 16:00 | [Developing secure applications for health providers and research.](XtraTracks2026-10.md)  | [Julian Kunkel](XtraTracks2026-10.md)  | [Register](https://ticketpass.org/event/EAWWCY/julian-kunkel-developing-secure-applications-for-health-providers-and-research-education)  |
 | 03-06-2026 16:00 | [Evaluation of Clinical Decision Support, with fall prevention as a case study](XtraTracks2026-11.md)  | [Stepahnie Medlock](XtraTracks2026-11.md)  | [Register](https://ticketpass.org/event/EKHSMH/stepahnie-medlock-evaluation-of-clinical-decision-support-with-fall-prevention-as-a-case-study)  |

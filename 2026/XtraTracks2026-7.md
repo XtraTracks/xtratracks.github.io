@@ -2,14 +2,14 @@
 
 [Overview](XtraTracksOverview)
 
-<p style="font-size:11px">29-04-2026 16:00</p>
+<p style="font-size:11px">29-04-2026</p>
 
 <p style="font-size:11px">Five decades have passed in the evolution of Artificial Intelligence in Medicine (AIM), a field that has evolved substantially while tracking the corresponding changes in computer science, hardware technology, communications, and biomedicine. Emerging from medical schools and computer science departments in its early years, the AIM field is now more visible and influential than ever before, paralleling the enthusiasm and accomplishments of AI and data science more generally.  This talk will briefly summarize some of AIM history, focusing on clinical decision making and providing an update on the status of the field as we enter our second half-century. The inherent complexity of medicine and of clinical care necessitates that we address not only decision-making performance but also issues of usability, workflow, transparency, safety, evaluation, and ethics. These requirements contribute to an ongoing investigative agenda for AIM research and development.</p>
 
 <!-- Once the Video is recorded -->
-<!-- <center> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fuxYr-oMcIs?si=7S4BtCM3z63h4n5i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>-->
+<center> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kJr5sCmwgIk?si=fCxXyLpfpkNgju_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
-[Register now](https://ticketpass.org/event/EHQTQC/edward-shortliffe-introduction-to-clinical-decision-support-systems) to secure your spot in the lectures and receive a calendar invitation including the access link.
+<!-- [Register now](https://ticketpass.org/event/EHQTQC/edward-shortliffe-introduction-to-clinical-decision-support-systems) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
 <!-- [Join Us Life](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
