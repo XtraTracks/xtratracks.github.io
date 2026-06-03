@@ -12,8 +12,8 @@ The lecture will highlight KISSKI's user-centered community approach that foster
 
 Finally, we will discuss KISSKI's sustainable business model, ensuring long-term viability beyond initial funding. This includes a clear path to a self-sustaining, cost-recovery model for industrial projects, guaranteeing that the center remains a vital national resource for advancing AI in Germany's most critical sectors. KISSKI is not just a service center; it is a national ecosystem for responsible and impactful AI innovation. </p>
 
-<!-- Once the Video is recorded 
-<center> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZJU-5b1iUDk?si=n12gNJbpUTlJX-VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>-->
+
+<center> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZJU-5b1iUDk?si=n12gNJbpUTlJX-VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 <!-- [Join Us Life](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
