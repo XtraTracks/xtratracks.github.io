@@ -2,7 +2,7 @@
 
 [Overview](XtraTracksOverview)
 
-<p style="font-size:11px">27-05-2026 16:00</p>
+<p style="font-size:11px">27-05-2026</p>
 
 <p style="font-size:11px">AI offers a significant potential in health care, not only in the analysis of multimodal health data and integration in interfaces and diagnostic assistants but also reducing the burden of documentation. The usage of existing AI solutions however can be difficult due to data protection guidelines and intransparent algorithms. “KISSKI” is one of four German BMFTR-funded AI service centers and focusses on critical infrastructures such as health care. Established as a partnership between leading universities, university medical centers, research institutions, and industry, KISSKI is uniquely positioned to address the critical challenges of deploying AI in sensitive and critical domains, with a primary focus on healthcare and energy. The core mission of KISSKI is to provide a highly available, secure, and scalable AI infrastructure that lowers the barrier to entry for both researchers and industry, particularly small and medium-sized enterprises (SMEs). We will demonstrate how KISSKI integrates cutting-edge research in scalable AI, heterogeneous hardware, secure data management, and automated model development into a comprehensive, user-friendly service portfolio.
 
@@ -12,14 +12,12 @@ The lecture will highlight KISSKI's user-centered community approach that foster
 
 Finally, we will discuss KISSKI's sustainable business model, ensuring long-term viability beyond initial funding. This includes a clear path to a self-sustaining, cost-recovery model for industrial projects, guaranteeing that the center remains a vital national resource for advancing AI in Germany's most critical sectors. KISSKI is not just a service center; it is a national ecosystem for responsible and impactful AI innovation. </p>
 
-<!-- Once the Video is recorded -->
-<!-- <center> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fuxYr-oMcIs?si=7S4BtCM3z63h4n5i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>-->
-
-[Register now](https://ticketpass.org/event/EAWWCY/julian-kunkel-developing-secure-applications-for-health-providers-and-research-education) to secure your spot in the lectures and receive a calendar invitation including the access link.
+<!-- Once the Video is recorded 
+<center> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZJU-5b1iUDk?si=n12gNJbpUTlJX-VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>-->
 
 <!-- [Join Us Life](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
- ## [Prof. Dr. Julian Kunkel - Institut of Computer Science, Georg-August-University Göttingen](https://hps.vi4io.org/about/people/julian_kunkel); [Gesellschaft für wissenschaftliche Datenverarbeitung, Göttingen](https://gwdg.de/research-education/researchgroup_kunkel/)
+ [Prof. Dr. Julian Kunkel - Institut of Computer Science, Georg-August-University Göttingen](https://hps.vi4io.org/about/people/julian_kunkel); [Gesellschaft für wissenschaftliche Datenverarbeitung, Göttingen](https://gwdg.de/research-education/researchgroup_kunkel/)
 
 <img src="/images/2026/Kunkel.jpg?raw=true" height="200" />
 

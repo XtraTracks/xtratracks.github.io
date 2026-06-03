@@ -2,7 +2,7 @@
 
 [Overview](XtraTracksOverview)
 
-<p style="font-size:11px">20-05-2025 16:00</p>
+<p style="font-size:11px">20-05-2025</p>
 
 <p style="font-size:11px">The German Health Data Use Act (Gesundheitsdatennutzungsgesetz, GDNG) aims to strengthen medical research by facilitating data use, reducing bureaucratic burden, and improving cross-sector collaboration. This presentation reports on a pilot application of the GDNG conducted within the BMBF-funded consortium Medical Informatics Hub in Saxony (MiHUBx), using the ambulatory study TeleBPM-Impact as an example. TeleBPM-Impact was the first study in Germany to be submitted to the competent data protection authority on the basis of the GDNG.
 The presentation traces the regulatory trajectory from the pre-GDNG legal framework through the enactment of the law in March 2024 to its practical implementation. Particular focus is placed on interactions with the responsible data protection authority, the interpretation of Section 6(3) GDNG with respect to the concept of “collaborative research projects,” and the resulting procedural uncertainties and lessons learned.
@@ -10,10 +10,7 @@ The presentation summarizes the insights gained, discusses the implications for 
 
 <b> The Talk will be given in German </b>
 
-<!-- Once the Video is recorded -->
-<!-- <center> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fuxYr-oMcIs?si=7S4BtCM3z63h4n5i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>-->
-
-[Register now](https://ticketpass.org/event/EAKFRW/benjamin-platte-gdng-im-praxistest-von-reformanspruch-zu-realitat-und-resilienz-in-german) to secure your spot in the lectures and receive a calendar invitation including the access link.
+<center> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_1_xk_tQ3Bg?si=5S4hTV-JCHUQ6RoV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 <!-- [Join Us Life](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
