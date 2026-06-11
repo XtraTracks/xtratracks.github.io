@@ -51,7 +51,7 @@ Detailed information about the speakers will be made available soon (and then ca
 | 10-06-2026 16:00 | [From Distributed Data to Central Models: Federated Machine Learning in Medicine](XtraTracks2026-12.md)  | [Mathias Kaspar](XtraTracks2026-12.md)  | [Register](https://ticketpass.org/event/EHJYKC/mathias-kaspar-from-distributed-data-to-central-models-federated-machine-learning-in-medicine)  |
 | 17-06-2026 16:00 | [Clinical Decision Support under the KHZG – Current State, Developments, and Challenges](XtraTracks2026-13.md)  | [Andreas Beß](XtraTracks2026-13.md)  | [Register](https://ticketpass.org/event/ELRNVL/andreas-bess-clinical-decision-support-under-the-khzg-current-state-developments-and-challenges)  |
 | 24-06-2026 16:00 | [Above and Beyond Compliance: Leveraging the AI Act to Enhance Quality Assurance in Clinical Decision-Making](XtraTracks2026-14.md)  | [Griet Verhenneman](XtraTracks2026-14.md)  | [Register](https://ticketpass.org/event/ERAKKZ/griet-verhenneman-above-and-beyond-compliance-leveraging-the-ai-act-to-enhance-quality-assurance-in-clinical-decision-making)  |
-
+| 01-07-2026 16:00 | [CDSS in Practice: Current and Future Perspectives on Real-World Clinical Decision Support with MAIA](XtraTracks2026-15.md)  | [Julian Hugo - Tiplu](XtraTracks2026-15.md)  | [Register](https://tktp.as/EGMWOK)  |
 
 ## Trainingpoint-FAQ:
 * Be the first. a

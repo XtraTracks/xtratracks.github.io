@@ -1,10 +1,11 @@
-### Introduction [(XtraTrack Season 2026)](XtraTracksOverview)
+### CDSS in Practice: Current and Future Perspectives on Real-World Clinical Decision Support with MAIA [(XtraTrack Season 2026)](XtraTracksOverview)
 
 [Overview](XtraTracksOverview)
 
-<p style="font-size:11px">??-05-2025 16:00</p>
+<p style="font-size:11px">01-07-2026 16:00</p>
 
-<p style="font-size:11px">After giving an overview over the upcoming lecture series, this talk will give a short introduction into the field of clinical decision support. While clinical decision support systems are becoming an increasingly important part of modern medicine, the training and education in digital medicine is still at its very beginning. </p>
+<p style="font-size:11px">Clinical decision support systems (CDSS) have long promised to reduce diagnostic delays and improve guideline adherence, yet evidence of real-world impact remains limited. MAIA (Medical Artificial Intelligence Assistant) is a hybrid CDSS developed by Tiplu GmbH and CE-marked as an MDR Class IIa medical device. It combines rule-based alerts for presumed diagnoses with machine learning models for risk predictions. Both operate on continuously updated patient data (including laboratory values, vital parameters, and clinical documents) retrieved via standardized FHIR interfaces from a clinical data repository connected to the hospital information system and subsystems. The underlying clinical prediction models were trained by federated learning on anonymized inpatient records from approximately 130 German hospitals.
+This talk outlines MAIA's development and core functionalities, the real-world advantages of an interoperable FHIR-based data source, preliminary real-world validation results regarding sepsis prediction, and future perspectives on bringing LLM-based decision support into routine clinical care. </p>
 
 <!-- Once the Video is recorded -->
 <!-- <center> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fuxYr-oMcIs?si=7S4BtCM3z63h4n5i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
@@ -13,10 +14,11 @@
 
 <!-- [Join Us Life](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
-<!-- ## Prof. Dr. Myriam Lipprandt - University Hospital Münster, Office for eHealth 
+## Dr. med. Julian Hugo, M.Sc. Digital Health (Medical Lead Clinical Decision Support) 
 <img src="/images/2025/Juhra.jpg?raw=true" height="200" />
 
-<p style="font-size:11px">Christian is a general surgeon and emergency medicine specialist. Besides his medical training, he has an MBA and is a certified medical informatics specialist. He is the Head of the Office for eHealth at the University Hospital Münster, which he founded in 2015. He was granted the right to train physicians in Medical Informatics. The Office for eHealth directed or participated in a number of different eHealth research studies in various medical disciplines such as neurology, trauma care, intensive care, emergency medicine, obstretics and palliative care.</p>
+<p style="font-size:11px">Dr. med. Julian Hugo, M.Sc., is Medical Lead Clinical Decision Support at Tiplu, where he heads a team of physicians supporting the development of AI-based clinical decision support systems. He studied medicine at the Julius-Maximilians-University Würzburg and earned his doctorate in neurology with laboratory research on the excitability of nociceptive neurons. 
+Alongside two years of residency training in clinical pharmacology, he completed an M.Sc. in Digital Health at the Hasso Plattner Institute in Potsdam. His master's thesis on machine learning-based risk prediction in Crohn's disease received the Mario Stefanelli Award for Best Student Paper at AIME, the GMDS Förderpreis for the best master's thesis, and the DMEA Nachwuchspreis. Since 2023, he has been with Tiplu, where his roles have included Product Owner of an ML-based clinical decision support product and Venture Owner responsible for developing a clinical LLM platform. His work focuses on data interoperability, AI-based clinical decision support, and the application of large language models in healthcare.</p>
 
 <!-- second speaker-->
 <!--<img src="/images/??/USER.jpg?raw=true"/>
