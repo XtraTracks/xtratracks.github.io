@@ -15,7 +15,7 @@ This talk outlines MAIA's development and core functionalities, the real-world a
 <!-- [Join Us Life](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
 ## Dr. med. Julian Hugo, M.Sc. Digital Health (Medical Lead Clinical Decision Support) 
-<img src="/images/2025/Juhra.jpg?raw=true" height="200" />
+<img src="/images/2026/Tiplu.jpg?raw=true" height="200" />
 
 <p style="font-size:11px">Dr. med. Julian Hugo, M.Sc., is Medical Lead Clinical Decision Support at Tiplu, where he heads a team of physicians supporting the development of AI-based clinical decision support systems. He studied medicine at the Julius-Maximilians-University Würzburg and earned his doctorate in neurology with laboratory research on the excitability of nociceptive neurons. 
 Alongside two years of residency training in clinical pharmacology, he completed an M.Sc. in Digital Health at the Hasso Plattner Institute in Potsdam. His master's thesis on machine learning-based risk prediction in Crohn's disease received the Mario Stefanelli Award for Best Student Paper at AIME, the GMDS Förderpreis for the best master's thesis, and the DMEA Nachwuchspreis. Since 2023, he has been with Tiplu, where his roles have included Product Owner of an ML-based clinical decision support product and Venture Owner responsible for developing a clinical LLM platform. His work focuses on data interoperability, AI-based clinical decision support, and the application of large language models in healthcare.</p>
