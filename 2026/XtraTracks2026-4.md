@@ -2,12 +2,13 @@
 
 [Overview](XtraTracksOverview)
 
-<p style="font-size:11px">20-04-2025 16:00</p>
+<p style="font-size:11px">20-04-2025</p>
 
 <p style="font-size:11px"> Medical teams face increasing data complexity. The AMPEL platform offers a non-profit, open-source solution for real-time Clinical Decision Support. Recently, it enabled Leipzig University Medical Center to launch Germany’s first in-house medical device software. Join this talk to explore how this evidence-generating AI infrastructure enables hospitals to bridge the gap between research and routine care through in-house solutions.</p>
 
 <!-- Once the Video is recorded -->
-<!-- <center> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fuxYr-oMcIs?si=7S4BtCM3z63h4n5i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+<center> 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B3Edt09_2vE?si=sI46plp2V-Et6i5N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 <!-- [Register now](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
