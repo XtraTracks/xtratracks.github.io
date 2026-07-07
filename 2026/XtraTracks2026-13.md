@@ -2,7 +2,7 @@
 
 [Overview](XtraTracksOverview)
 
-<p style="font-size:11px">17-06-2026 16:00</p>
+<p style="font-size:11px">17-06-2026</p>
 
 <p style="font-size:11px">The German Hospital Future Act (KHZG) has significantly accelerated the digital transformation of hospitals and created new opportunities for the implementation of Clinical Decision Support (CDS) systems. Within the KHZG funding framework, many institutions have initiated large-scale investments in digital infrastructure, clinical information systems, electronic medication management, and interoperability capabilities — all of which form the technical foundation for scalable and effective decision support.
 This presentation provides an overview of the current state of CDS implementation under KHZG conditions and reflects on practical experiences from funded projects. Particular attention is given to the specific procurement pathways required in the context of public tendering. As most hospitals operate under public procurement law, CDS solutions must be specified, evaluated, and awarded through structured and legally compliant processes. The session examines how functional requirements for decision support can be translated into procurement documents, how innovation-friendly tenders can be designed despite regulatory constraints, and how interoperability, data standards (e.g., HL7 FHIR), and long-term scalability can be anchored contractually.
@@ -10,10 +10,8 @@ Beyond implementation and procurement, the presentation discusses future develop
 By combining policy context, procurement strategy, and technical implementation perspectives, this session offers a comprehensive view of how CDS initiatives under KHZG can move beyond infrastructure funding toward sustainable, value-generating clinical solutions within the constraints of public sector governance.
 </p>
 
-<!-- Once the Video is recorded -->
-<!-- <center> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fuxYr-oMcIs?si=7S4BtCM3z63h4n5i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>-->
+<center> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AGcpey3-uUw?si=Rp8fu2TOXPzXyCtR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
-[Register now](https://ticketpass.org/event/ELRNVL/andreas-bess-clinical-decision-support-under-the-khzg-current-state-developments-and-challenges) to secure your spot in the lectures and receive a calendar invitation including the access link.
 
 <!-- [Join Us Life](/2024/XtraTrackOverview) to secure your spot in the lectures and receive a calendar invitation including the access link.-->
 
