@@ -50,8 +50,8 @@ Detailed information about the speakers will be made available soon (and then ca
 | 27-05-2026 16:00 | [Developing secure applications for health providers and research.](XtraTracks2026-10.md)  | [Julian Kunkel](XtraTracks2026-10.md)  | [Recording](XtraTracks2026-10.md)  |
 | 03-06-2026 16:00 | [Evaluation of Clinical Decision Support, with fall prevention as a case study](XtraTracks2026-11.md)  | [Stepahnie Medlock](XtraTracks2026-11.md)  | [Recording](XtraTracks2026-11.md)  |
 | 10-06-2026 16:00 | [From Distributed Data to Central Models: Federated Machine Learning in Medicine](XtraTracks2026-12.md)  | [Mathias Kaspar](XtraTracks2026-12.md)  | [Recording](XtraTracks2026-12.md)  |
-| 17-06-2026 16:00 | [Clinical Decision Support under the KHZG – Current State, Developments, and Challenges](XtraTracks2026-13.md)  | [Andreas Beß](XtraTracks2026-13.md)  | [Register](https://ticketpass.org/event/ELRNVL/andreas-bess-clinical-decision-support-under-the-khzg-current-state-developments-and-challenges)  |
-| 01-07-2026 16:00 | [CDSS in Practice: Current and Future Perspectives on Real-World Clinical Decision Support with MAIA](XtraTracks2026-15.md)  | [Julian Hugo - Tiplu](XtraTracks2026-15.md)  | [Register](https://tktp.as/EGMWOK)  |
+| 17-06-2026 16:00 | [Clinical Decision Support under the KHZG – Current State, Developments, and Challenges](XtraTracks2026-13.md)  | [Andreas Beß](XtraTracks2026-13.md)  | [Recording](XtraTracks2026-13.md)  |
+| 01-07-2026 16:00 | [CDSS in Practice: Current and Future Perspectives on Real-World Clinical Decision Support with MAIA](XtraTracks2026-15.md)  | [Julian Hugo - Tiplu](XtraTracks2026-15.md)  | []()  |
 | 08-07-2026 16:00 | [Above and Beyond Compliance: Leveraging the AI Act to Enhance Quality Assurance in Clinical Decision-Making](XtraTracks2026-14.md)  | [Griet Verhenneman](XtraTracks2026-14.md)  | [Join](http://meetn.com/xtratracks)  |
 
 ## Trainingpoint-FAQ:
