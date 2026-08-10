@@ -14,10 +14,7 @@ E-Mail: geschaeftsstelle@gmds.de
 German Association for Medical Informatics, Biometry and Epidemiology (GMDS)
 
 Vertretungsberechtigte Personen:
-Präsident: Prof. Dr. André Scherag 
-
-1. Vizepräsident: Prof. Dr. Hans-Ulrich Prokosch
-2. Vizepräsident: Prof. Dr. Harald Binder
+Präsident: Prof. Dr. Hans-Ulrich Prokosch
 
 Vereinsregister:
 VR 16225 Amtsgericht Köln
